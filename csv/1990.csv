@@ -1,0 +1,64 @@
+year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team_name,losing_team_seed,losing_team_score
+1990,64,Connecticut,1,76,Boston University,16,52
+1990,64,California,9,65,Indiana,8,63
+1990,64,Clemson,5,49,BYU,12,47
+1990,64,La Salle,4,79,Southern Miss,13,63
+1990,64,St. John's,6,81,Temple,11,65
+1990,64,Duke,3,81,Richmond,14,46
+1990,64,UCLA,7,68,UAB,10,56
+1990,64,Kansas,2,79,Robert Morris,15,71
+1990,32,Connecticut,1,74,California,9,54
+1990,32,Clemson,5,79,La Salle,4,75
+1990,32,Duke,3,76,St. John's,6,72
+1990,32,UCLA,7,71,Kansas,2,70
+1990,16,Connecticut,1,71,Clemson,5,70
+1990,16,Duke,3,90,UCLA,7,81
+1990,8,Duke,3,79,Connecticut,1,78
+1990,64,Oklahoma,1,77,Towson State,16,68
+1990,64,North Carolina,8,83,SW Missouri State,9,70
+1990,64,Dayton,12,88,Illinois,5,86
+1990,64,Arkansas,4,68,Princeton,13,64
+1990,64,Xavier,6,87,Kansas State,11,79
+1990,64,Georgetown,3,70,Texas Southern,14,52
+1990,64,Texas,10,100,Georgia,7,88
+1990,64,Purdue,2,75,Northeast Louisiana,15,63
+1990,32,North Carolina,8,79,Oklahoma,1,77
+1990,32,Arkansas,4,86,Dayton,12,84
+1990,32,Xavier,6,74,Georgetown,3,71
+1990,32,Texas,10,73,Purdue,2,72
+1990,16,Arkansas,4,96,North Carolina,8,73
+1990,16,Texas,10,102,Xavier,6,89
+1990,8,Arkansas,4,88,Texas,10,85
+1990,64,Michigan State,1,75,Murray State,16,71
+1990,64,UC Santa Barbara,9,70,Houston,8,66
+1990,64,LSU,5,70,Villanova,12,63
+1990,64,Georgia Tech,4,99,East Tennessee State,13,83
+1990,64,Minnesota,6,64,UTEP,11,61
+1990,64,Northern Iowa,14,74,Missouri,3,71
+1990,64,Virginia,7,75,Notre Dame,10,67
+1990,64,Syracuse,2,70,Coppin State,15,48
+1990,32,Michigan State,1,62,UC Santa Barbara,9,58
+1990,32,Georgia Tech,4,94,LSU,5,91
+1990,32,Minnesota,6,81,Northern Iowa,14,78
+1990,32,Syracuse,2,63,Virginia,7,61
+1990,16,Georgia Tech,4,81,Michigan State,1,80
+1990,16,Minnesota,6,82,Syracuse,2,75
+1990,8,Georgia Tech,4,93,Minnesota,6,91
+1990,64,UNLV,1,102,Arkansas–Little Rock,16,72
+1990,64,Ohio State,8,84,Providence,9,83
+1990,64,Ball State,12,54,Oregon State,5,53
+1990,64,Louisville,4,78,Idaho,13,59
+1990,64,Loyola Marymount,11,111,New Mexico State,6,92
+1990,64,Michigan,3,76,Illinois State,14,70
+1990,64,Alabama,7,71,Colorado State,10,54
+1990,64,Arizona,2,79,South Florida,15,67
+1990,32,UNLV,1,76,Ohio State,8,65
+1990,32,Ball State,12,62,Louisville,4,60
+1990,32,Loyola Marymount,11,149,Michigan,3,115
+1990,32,Alabama,7,77,Arizona,2,55
+1990,16,UNLV,1,69,Ball State,12,67
+1990,16,Loyola Marymount,11,62,Alabama,7,60
+1990,8,UNLV,1,131,Loyola Marymount,11,101
+1990,4,Duke,3,97,Arkansas,4,83
+1990,4,UNLV,1,90,Georgia Tech,4,81
+1990,2,UNLV,1,103,Duke,3,73

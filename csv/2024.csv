@@ -1,0 +1,64 @@
+year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team_name,losing_team_seed,losing_team_score
+2024,64,UConn,1,91,Stetson,16,52
+2024,64,Northwestern,9,77,Florida Atlantic,8,65
+2024,64,San Diego State,5,69,UAB,12,65
+2024,64,Yale,13,78,Auburn,4,76
+2024,64,Duquesne,11,71,BYU,6,67
+2024,64,Illinois,3,85,Morehead State,14,69
+2024,64,Washington State,7,66,Drake,10,61
+2024,64,Iowa State,2,82,South Dakota State,15,65
+2024,32,UConn,1,75,Northwestern,9,58
+2024,32,San Diego State,5,85,Yale,13,57
+2024,32,Illinois,3,89,Duquesne,11,63
+2024,32,Iowa State,2,67,Washington State,7,56
+2024,16,UConn,1,82,San Diego State,5,52
+2024,16,Illinois,3,72,Iowa State,2,69
+2024,8,UConn,1,77,Illinois,3,52
+2024,64,North Carolina,1,90,Wagner,16,62
+2024,64,Michigan State,9,69,Mississippi State,8,51
+2024,64,Grand Canyon,12,75,Saint Mary's,5,66
+2024,64,Alabama,4,109,Charleston,13,96
+2024,64,Clemson,6,77,New Mexico,11,56
+2024,64,Baylor,3,92,Colgate,14,67
+2024,64,Dayton,7,63,Nevada,10,60
+2024,64,Arizona,2,85,Long Beach State,15,65
+2024,32,North Carolina,1,85,Michigan State,9,69
+2024,32,Alabama,4,72,Grand Canyon,12,61
+2024,32,Clemson,6,72,Baylor,3,64
+2024,32,Arizona,2,78,Dayton,7,68
+2024,16,Alabama,4,89,North Carolina,1,87
+2024,16,Clemson,6,77,Arizona,2,72
+2024,8,Alabama,4,89,Clemson,6,82
+2024,64,Houston,1,86,Longwood,16,46
+2024,64,Texas A&M,9,98,Nebraska,8,83
+2024,64,James Madison,12,72,Wisconsin,5,61
+2024,64,Duke,4,64,Vermont,13,47
+2024,64,NC State,11,80,Texas Tech,6,67
+2024,64,Oakland,14,80,Kentucky,3,76
+2024,64,Colorado,10,102,Florida,7,100
+2024,64,Marquette,2,87,Western Kentucky,15,69
+2024,32,Houston,1,100,Texas A&M,9,95
+2024,32,Duke,4,93,James Madison,12,55
+2024,32,NC State,11,79,Oakland,14,73
+2024,32,Marquette,2,81,Colorado,10,77
+2024,16,Duke,4,54,Houston,1,51
+2024,16,NC State,11,67,Marquette,2,58
+2024,8,NC State,11,76,Duke,4,64
+2024,64,Purdue,1,78,Grambling State,16,50
+2024,64,Utah State,8,88,TCU,9,72
+2024,64,Gonzaga,5,86,McNeese,12,65
+2024,64,Kansas,4,93,Samford,13,89
+2024,64,Oregon,11,87,South Carolina,6,73
+2024,64,Creighton,3,77,Akron,14,60
+2024,64,Texas,7,56,Colorado State,10,44
+2024,64,Tennessee,2,83,Saint Peter's,15,49
+2024,32,Purdue,1,106,Utah State,8,67
+2024,32,Gonzaga,5,89,Kansas,4,68
+2024,32,Creighton,3,86,Oregon,11,73
+2024,32,Tennessee,2,62,Texas,7,58
+2024,16,Purdue,1,80,Gonzaga,5,68
+2024,16,Tennessee,2,82,Creighton,3,75
+2024,8,Purdue,1,72,Tennessee,2,66
+2024,4,UConn,1,86,Alabama,4,72
+2024,4,Purdue,1,63,NC State,11,50
+2024,2,UConn,1,75,Purdue,1,60

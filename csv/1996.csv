@@ -1,0 +1,64 @@
+year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team_name,losing_team_seed,losing_team_score
+1996,64,,1,92,UCF,16,70
+1996,64,Stanford,9,66,Bradley,8,58
+1996,64,Arkansas,12,86,Penn State,5,80
+1996,64,Marquette,4,68,Monmouth,13,44
+1996,64,North Carolina,6,83,New Orleans,11,62
+1996,64,Texas Tech,3,74,Northern Illinois,14,73
+1996,64,New Mexico,7,69,Kansas State,10,48
+1996,64,Georgetown,2,93,Mississippi Valley State,15,56
+1996,32,,1,79,Stanford,9,74
+1996,32,Arkansas,12,65,Marquette,4,56
+1996,32,Texas Tech,3,92,North Carolina,6,73
+1996,32,Georgetown,2,75,New Mexico,7,65
+1996,16,,1,79,Arkansas,12,63
+1996,16,Georgetown,2,98,Texas Tech,3,90
+1996,8,,1,86,Georgetown,2,62
+1996,64,Kentucky,1,110,San Jose State,16,72
+1996,64,Virginia Tech,9,61,UW–Green Bay,8,49
+1996,64,Iowa State,5,74,California,12,64
+1996,64,Utah,4,72,Canisius,13,43
+1996,64,Louisville,6,82,Tulsa,11,80
+1996,64,Villanova,3,92,Portland,14,58
+1996,64,Texas,10,80,,7,76
+1996,64,Wake Forest,2,62,Northeast Louisiana,15,50
+1996,32,Kentucky,1,84,Virginia Tech,9,60
+1996,32,Utah,4,73,Iowa State,5,67
+1996,32,Louisville,6,68,Villanova,3,64
+1996,32,Wake Forest,2,65,Texas,10,62
+1996,16,Kentucky,1,101,Utah,4,70
+1996,16,Wake Forest,2,60,Louisville,6,59
+1996,8,Kentucky,1,83,Wake Forest,2,63
+1996,64,Connecticut,1,68,Colgate,16,59
+1996,64,Eastern Michigan,9,75,Duke,8,60
+1996,64,Mississippi State,5,58,VCU,12,51
+1996,64,Princeton,13,43,UCLA,4,41
+1996,64,Boston College,11,64,Indiana,6,51
+1996,64,Georgia Tech,3,90,Austin Peay,14,79
+1996,64,Temple,7,61,Oklahoma,10,43
+1996,64,Cincinnati,2,66,UNC Greensboro,15,61
+1996,32,Connecticut,1,95,Eastern Michigan,9,81
+1996,32,Mississippi State,5,63,Princeton,13,41
+1996,32,Georgia Tech,3,103,Boston College,11,89
+1996,32,Cincinnati,2,78,Temple,7,65
+1996,16,Mississippi State,5,60,Connecticut,1,55
+1996,16,Cincinnati,2,87,Georgia Tech,3,70
+1996,8,Mississippi State,5,73,Cincinnati,2,63
+1996,64,Purdue,1,73,Western Carolina,16,71
+1996,64,Georgia,8,81,Clemson,9,74
+1996,64,Drexel,12,75,Memphis,5,63
+1996,64,Syracuse,4,88,Montana State,13,55
+1996,64,Iowa,6,81,George Washington,11,79
+1996,64,Arizona,3,90,Valparaiso,14,51
+1996,64,Santa Clara,10,91,Maryland,7,79
+1996,64,Kansas,2,92,South Carolina State,15,54
+1996,32,Georgia,8,76,Purdue,1,69
+1996,32,Syracuse,4,69,Drexel,12,58
+1996,32,Arizona,3,87,Iowa,6,73
+1996,32,Kansas,2,76,Santa Clara,10,51
+1996,16,Syracuse,4,83,Georgia,8,81
+1996,16,Kansas,2,83,Arizona,3,80
+1996,8,Syracuse,4,60,Kansas,2,57
+1996,4,Kentucky,1,81,,1,74
+1996,4,Syracuse,4,77,Mississippi State,5,69
+1996,2,Kentucky,1,76,Syracuse,4,67

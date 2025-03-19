@@ -1,0 +1,64 @@
+year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team_name,losing_team_seed,losing_team_score
+2002,64,Maryland,1,85,Siena,16,70
+2002,64,Wisconsin,8,80,St. John's,9,70
+2002,64,Tulsa,12,71,Marquette,5,69
+2002,64,Kentucky,4,83,Valparaiso,13,68
+2002,64,Southern Illinois,11,76,Texas Tech,6,68
+2002,64,Georgia,3,85,Murray State,14,68
+2002,64,NC State,7,69,Michigan State,10,58
+2002,64,Connecticut,2,78,Hampton,15,67
+2002,32,Maryland,1,87,Wisconsin,8,57
+2002,32,Kentucky,4,87,Tulsa,12,82
+2002,32,Southern Illinois,11,77,Georgia,3,75
+2002,32,Connecticut,2,77,NC State,7,74
+2002,16,Maryland,1,78,Kentucky,4,68
+2002,16,Connecticut,2,71,Southern Illinois,11,59
+2002,8,Maryland,1,90,Connecticut,2,82
+2002,64,Kansas,1,70,Holy Cross,16,59
+2002,64,Stanford,8,84,Western Kentucky,9,68
+2002,64,Creighton,12,83,Florida,5,82
+2002,64,Illinois,4,93,San Diego State,13,64
+2002,64,Texas,6,70,Boston College,11,57
+2002,64,Mississippi State,3,70,McNeese State,14,58
+2002,64,Wake Forest,7,83,Pepperdine,10,74
+2002,64,Oregon,2,81,Montana,15,62
+2002,32,Kansas,1,86,Stanford,8,63
+2002,32,Illinois,4,72,Creighton,12,60
+2002,32,Texas,6,68,Mississippi State,3,64
+2002,32,Oregon,2,92,Wake Forest,7,87
+2002,16,Kansas,1,73,Illinois,4,69
+2002,16,Oregon,2,72,Texas,6,70
+2002,8,Kansas,1,104,Oregon,2,86
+2002,64,Duke,1,84,Winthrop,16,37
+2002,64,Notre Dame,8,82,Charlotte,9,63
+2002,64,Indiana,5,75,Utah,12,56
+2002,64,UNC Wilmington,13,93,USC,4,89
+2002,64,California,6,82,Pennsylvania,11,75
+2002,64,Pittsburgh,3,71,Central Connecticut State,14,54
+2002,64,Kent State,10,69,Oklahoma State,7,61
+2002,64,Alabama,2,86,Florida Atlantic,15,78
+2002,32,Duke,1,84,Notre Dame,8,77
+2002,32,Indiana,5,76,UNC Wilmington,13,67
+2002,32,Pittsburgh,3,63,California,6,50
+2002,32,Kent State,10,71,Alabama,2,58
+2002,16,Indiana,5,74,Duke,1,73
+2002,16,Kent State,10,78,Pittsburgh,3,73
+2002,8,Indiana,5,81,Kent State,10,69
+2002,64,Cincinnati,1,90,Boston University,16,52
+2002,64,UCLA,8,80,Ole Miss,9,58
+2002,64,Missouri,12,93,Miami (FL),5,80
+2002,64,,4,69,Davidson,13,64
+2002,64,Wyoming,11,73,Gonzaga,6,66
+2002,64,Arizona,3,86,UC-Santa Barbara,14,81
+2002,64,Xavier,7,70,Hawaii,10,58
+2002,64,Oklahoma,2,71,Illinois-Chicago,15,63
+2002,32,UCLA,8,105,Cincinnati,1,101
+2002,32,Missouri,12,83,,4,67
+2002,32,Arizona,3,68,Wyoming,11,60
+2002,32,Oklahoma,2,78,Xavier,7,65
+2002,16,Missouri,12,82,UCLA,8,73
+2002,16,Oklahoma,2,88,Arizona,3,67
+2002,8,Oklahoma,2,81,Missouri,12,75
+2002,4,Maryland,1,97,Kansas,1,88
+2002,4,Indiana,5,73,Oklahoma,2,64
+2002,2,Maryland,1,64,Indiana,5,52

@@ -1,0 +1,64 @@
+year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team_name,losing_team_seed,losing_team_score
+1999,64,Duke,1,99,Florida A&M,16,58
+1999,64,Tulsa,9,62,College of Charleston,8,53
+1999,64,SW Missouri St.,12,43,Wisconsin,5,32
+1999,64,Tennessee,4,62,Delaware,13,52
+1999,64,Temple,6,61,Kent St.,11,54
+1999,64,Cincinnati,3,72,George Mason,14,48
+1999,64,Purdue,10,58,Texas,7,54
+1999,64,Miami-FL,2,75,Lafayette,15,54
+1999,32,Duke,1,97,Tulsa,9,56
+1999,32,SW Missouri St.,12,81,Tennessee,4,51
+1999,32,Temple,6,64,Cincinnati,3,54
+1999,32,Purdue,10,73,Miami-FL,2,63
+1999,16,Duke,1,78,SW Missouri St.,12,61
+1999,16,Temple,6,77,Purdue,10,55
+1999,8,Duke,1,85,Temple,6,64
+1999,64,Michigan State,1,76,Mount St. Mary's,16,53
+1999,64,Ole Miss,9,72,Villanova,8,70
+1999,64,Charlotte,5,81,Rhode Island,12,70
+1999,64,Oklahoma,13,61,Arizona,4,60
+1999,64,Kansas,6,95,Evansville,11,74
+1999,64,Kentucky,3,82,New Mexico State,14,60
+1999,64,Miami-OH,10,59,Washington,7,58
+1999,64,Utah,2,80,Arkansas State,15,58
+1999,32,Michigan State,1,74,Ole Miss,9,66
+1999,32,Oklahoma,13,85,Charlotte,5,72
+1999,32,Kentucky,3,92,Kansas,6,88
+1999,32,Miami-OH,10,66,Utah,2,58
+1999,16,Michigan State,1,54,Oklahoma,13,46
+1999,16,Kentucky,3,58,Miami-OH,10,43
+1999,8,Michigan State,1,73,Kentucky,3,66
+1999,64,Auburn,1,80,Winthrop,16,41
+1999,64,Oklahoma State,9,69,Syracuse,8,61
+1999,64,Detroit Mercy,12,56,UCLA,5,53
+1999,64,,4,72,Murray State,13,58
+1999,64,Indiana,6,108,George Washington,11,88
+1999,64,St. John's,3,69,Samford,14,43
+1999,64,Creighton,10,62,Louisville,7,58
+1999,64,Maryland,2,82,Valparaiso,15,60
+1999,32,Auburn,1,81,Oklahoma State,9,74
+1999,32,,4,75,Detroit Mercy,12,44
+1999,32,St. John's,3,86,Indiana,6,61
+1999,32,Maryland,2,75,Creighton,10,63
+1999,16,,4,72,Auburn,1,64
+1999,16,St. John's,3,76,Maryland,2,62
+1999,8,,4,77,St. John's,3,74
+1999,64,Connecticut,1,91,UTSA,16,66
+1999,64,New Mexico,9,61,Missouri,8,59
+1999,64,Iowa,5,77,UAB,12,64
+1999,64,Arkansas,4,94,Siena,13,80
+1999,64,Florida,6,75,Pennsylvania,11,61
+1999,64,Weber State,14,76,North Carolina,3,74
+1999,64,Gonzaga,10,75,Minnesota,7,63
+1999,64,Stanford,2,69,Alcorn State,15,57
+1999,32,Connecticut,1,78,New Mexico,9,56
+1999,32,Iowa,5,82,Arkansas,4,72
+1999,32,Florida,6,82,Weber State,14,74
+1999,32,Gonzaga,10,82,Stanford,2,74
+1999,16,Connecticut,1,78,Iowa,5,68
+1999,16,Gonzaga,10,73,Florida,6,72
+1999,8,Connecticut,1,67,Gonzaga,10,62
+1999,4,Duke,1,68,Michigan State,1,62
+1999,4,Connecticut,1,64,,4,58
+1999,2,Connecticut,1,77,Duke,1,74

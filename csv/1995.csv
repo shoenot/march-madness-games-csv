@@ -1,0 +1,64 @@
+year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team_name,losing_team_seed,losing_team_score
+1995,64,Wake Forest,1,79,North Carolina A&T,16,47
+1995,64,Saint Louis,9,64,Minnesota#,8,61
+1995,64,Alabama,5,91,Penn,12,85
+1995,64,Oklahoma State,4,73,Drexel,13,49
+1995,64,Tulsa,6,68,Illinois,11,62
+1995,64,Old Dominion,14,89,Villanova,3,81
+1995,64,Stanford,10,70,UNC Charlotte,7,68
+1995,64,Massachusetts,2,68,Saint Peter's,15,51
+1995,32,Wake Forest,1,64,Saint Louis,9,59
+1995,32,Oklahoma State,4,66,Alabama,5,52
+1995,32,Tulsa,6,64,Old Dominion,14,52
+1995,32,Massachusetts,2,75,Stanford,10,53
+1995,16,Oklahoma State,4,71,Wake Forest,1,66
+1995,16,Massachusetts,2,76,Tulsa,6,51
+1995,8,Oklahoma State,4,68,Massachusetts,2,54
+1995,64,UCLA,1,92,FIU,16,56
+1995,64,Missouri,8,65,Indiana,9,60
+1995,64,Mississippi State,5,75,Santa Clara,12,67
+1995,64,Utah,4,76,Long Beach State,13,64
+1995,64,Texas,11,90,Oregon,6,73
+1995,64,Maryland,3,87,Gonzaga,14,63
+1995,64,Cincinnati,7,77,Temple,10,71
+1995,64,Connecticut,2,100,Chattanooga,15,71
+1995,32,UCLA,1,75,Missouri,8,74
+1995,32,Mississippi State,5,78,Utah,4,64
+1995,32,Maryland,3,82,Texas,11,68
+1995,32,Connecticut,2,96,Cincinnati,7,91
+1995,16,UCLA,1,86,Mississippi State,5,67
+1995,16,Connecticut,2,99,Maryland,3,89
+1995,8,UCLA,1,102,Connecticut,2,96
+1995,64,Kentucky,1,113,Mount St. Mary's,16,67
+1995,64,Tulane,9,76,BYU,8,70
+1995,64,Arizona State,5,81,Ball State,12,66
+1995,64,Manhattan,13,77,Oklahoma,4,67
+1995,64,Georgetown,6,68,Xavier,11,63
+1995,64,Weber State,14,79,Michigan State,3,72
+1995,64,Iowa State,7,64,Florida,10,61
+1995,64,North Carolina,2,80,Murray State,15,70
+1995,32,Kentucky,1,82,Tulane,9,60
+1995,32,Arizona State,5,64,Manhattan,13,54
+1995,32,Georgetown,6,53,Weber State,14,51
+1995,32,North Carolina,2,73,Iowa State,7,51
+1995,16,Kentucky,1,97,Arizona State,5,73
+1995,16,North Carolina,2,74,Georgetown,6,64
+1995,8,North Carolina,2,74,Kentucky,1,61
+1995,64,Kansas,1,82,Colgate,16,68
+1995,64,Western Kentucky,8,82,Michigan,9,76
+1995,64,Miami (OH),12,71,Arizona,5,62
+1995,64,Virginia,4,96,Nicholls State,13,72
+1995,64,Memphis,6,77,Louisville,11,56
+1995,64,Purdue,3,49,UW–Green Bay,14,48
+1995,64,Syracuse,7,96,Southern Illinois,10,92
+1995,64,Arkansas,2,79,Texas Southern,15,78
+1995,32,Kansas,1,75,Western Kentucky,8,70
+1995,32,Virginia,4,60,Miami (OH),12,54
+1995,32,Memphis,6,75,Purdue,3,73
+1995,32,Arkansas,2,96,Syracuse,7,94
+1995,16,Virginia,4,67,Kansas,1,58
+1995,16,Arkansas,2,96,Memphis,6,91
+1995,8,Arkansas,2,68,Virginia,4,61
+1995,4,UCLA,1,74,Oklahoma State,4,61
+1995,4,Arkansas,2,75,North Carolina,2,68
+1995,2,UCLA,1,89,Arkansas,2,78

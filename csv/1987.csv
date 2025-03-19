@@ -1,0 +1,64 @@
+year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team_name,losing_team_seed,losing_team_score
+1987,64,North Carolina,1,113,Penn,16,82
+1987,64,Michigan,9,97,Navy,8,82
+1987,64,Notre Dame,5,84,Middle Tennessee State,12,71
+1987,64,TCU,4,76,Marshall,13,60
+1987,64,Florida,6,82,NC State,11,70
+1987,64,Purdue,3,104,Northeastern,14,95
+1987,64,Western Kentucky,10,64,West Virginia,7,62
+1987,64,Syracuse,2,79,Georgia Southern,15,73
+1987,32,North Carolina,1,109,Michigan,9,97
+1987,32,Notre Dame,5,58,TCU,4,57
+1987,32,Florida,6,85,Purdue,3,66
+1987,32,Syracuse,2,104,Western Kentucky,10,86
+1987,16,North Carolina,1,74,Notre Dame,5,68
+1987,16,Syracuse,2,87,Florida,6,81
+1987,8,Syracuse,2,79,North Carolina,1,75
+1987,64,Georgetown,1,75,Bucknell,16,53
+1987,64,Ohio State,9,91,Kentucky,8,77
+1987,64,Kansas,5,66,Houston,12,55
+1987,64,Southwest Missouri State,13,65,Clemson,4,60
+1987,64,Providence,6,90,UAB,11,68
+1987,64,Austin Peay,14,68,Illinois,3,67
+1987,64,New Orleans,7,83,BYU,10,79
+1987,64,Alabama,2,88,North Carolina A&T,15,71
+1987,32,Georgetown,1,82,Ohio State,9,79
+1987,32,Kansas,5,67,Southwest Missouri State,13,63
+1987,32,Providence,6,90,Austin Peay,14,87
+1987,32,Alabama,2,101,New Orleans,7,76
+1987,16,Georgetown,1,70,Kansas,5,57
+1987,16,Providence,6,103,Alabama,2,82
+1987,8,Providence,6,88,Georgetown,1,73
+1987,64,Indiana,1,92,Fairfield,16,58
+1987,64,Auburn,8,62,San Diego,9,61
+1987,64,Duke,5,58,Texas A&M,12,51
+1987,64,Xavier,13,70,Missouri,4,69
+1987,64,St. John's,6,57,Wichita State,11,55
+1987,64,DePaul,3,76,Louisiana Tech,14,62
+1987,64,LSU,10,85,Georgia Tech,7,79
+1987,64,Temple,2,75,Southern,15,56
+1987,32,Indiana,1,107,Auburn,8,90
+1987,32,Duke,5,65,Xavier,13,60
+1987,32,DePaul,3,83,St. John's,6,75
+1987,32,LSU,10,72,Temple,2,62
+1987,16,Indiana,1,88,Duke,5,82
+1987,16,LSU,10,63,DePaul,3,58
+1987,8,Indiana,1,77,LSU,10,76
+1987,64,UNLV,1,95,Idaho State,16,70
+1987,64,Kansas State,9,82,Georgia,8,79
+1987,64,Wyoming,12,64,Virginia,5,60
+1987,64,UCLA,4,92,Central Michigan,13,73
+1987,64,Oklahoma,6,74,Tulsa,11,69
+1987,64,Pittsburgh,3,93,Marist,14,68
+1987,64,UTEP,7,98,Arizona,10,91
+1987,64,Iowa,2,99,Santa Clara,15,76
+1987,32,UNLV,1,80,Kansas State,9,61
+1987,32,Wyoming,12,78,UCLA,4,68
+1987,32,Oklahoma,6,96,Pittsburgh,3,93
+1987,32,Iowa,2,84,UTEP,7,82
+1987,16,UNLV,1,92,Wyoming,12,78
+1987,16,Iowa,2,93,Oklahoma,6,91
+1987,8,UNLV,1,84,Iowa,2,81
+1987,4,Syracuse,2,77,Providence,6,63
+1987,4,Indiana,1,97,UNLV,1,93
+1987,2,Indiana,1,74,Syracuse,2,73

@@ -1,0 +1,884 @@
+{{Short description|Edition of USA college basketball tournament}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox NCAA basketball tournament
+| Year=1987
+| Image=1987 Final Four logo.png
+| ImageSize=
+| Caption=
+| Teams=64
+| FinalFourArena=[[Louisiana Superdome]]
+| FinalFourCity=[[New Orleans, Louisiana]]
+| Champions=[[1986–87 Indiana Hoosiers men's basketball team|Indiana Hoosiers]]
+| TitleCount=5th
+| ChampGameCount=5th
+| ChampFFCount=6th
+| RunnerUp=[[1986–87 Syracuse Orangemen basketball team|Syracuse Orangemen]]
+| GameCount=1st
+| RunnerFFCount=2nd
+| Semifinal1=[[1986–87 Providence Friars men's basketball team|Providence Friars]]
+| FinalFourCount=2nd
+| Semifinal2=[[1986–87 UNLV Runnin' Rebels basketball team|UNLV Runnin' Rebels]]
+| FinalFourCount2=2nd
+| Coach=[[Bob Knight]]
+| CoachCount=3rd
+| MOP=[[Keith Smart]]
+| MOPTeam=Indiana
+| Attendance=654,744
+| TopScorer=[[Steve Alford]]
+| TopScorerTeam=Indiana
+| TopScorer2=[[Rony Seikaly]]
+| TopScorer2Team=Syracuse
+| Points=138
+}}
+
+The '''1987 [[NCAA Division I men's basketball tournament]]''' involved 64 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]]. It began on March 12, 1987, and ended with the [[1987 NCAA Division I Men's Basketball Championship Game|championship game]] on March 30 in [[New Orleans, Louisiana]]. A total of 63 games were played.
+
+[[1986–87 Indiana Hoosiers men's basketball team|Indiana]], coached by [[Bob Knight]], won the national title with a 74–73 victory in the final game over [[1986–87 Syracuse Orangemen basketball team|Syracuse]], coached by [[Jim Boeheim]]. [[Keith Smart]] of Indiana, who hit the game-winner in the final seconds, and intercepted the full court pass at the last second, was named the tournament's [[NCAA basketball tournament Most Outstanding Player|Most Outstanding Player]].
+
+The tournament also featured a "Cinderella team" in the Final Four, as [[Providence College]], led by a then-unknown [[Rick Pitino]], made their first Final Four appearance since 1973.
+
+One year after reaching the [[1986 NCAA Division I men's basketball tournament|Final Four]] as a #11 seed, [[LSU Tigers men's basketball|LSU]] made another deep run as a #10 seed in the Midwest region. The Tigers ousted #2 seed Temple in the second round and #3 seed DePaul in the Sweet 16 before losing 77–76 to top seeded Indiana in the Elite Eight.
+
+This was the last tournament in which teams were allowed to have home court advantage: national runner-up Syracuse (2E), DePaul (3MW), Arizona (10W) and UAB (11SE) all opened the tournament playing on their home courts. UAB and Arizona each lost in the first round, while DePaul won twice at the [[Rosemont Horizon]]. Under rules adopted in [[1988 NCAA Division I men's basketball tournament|1988]], teams cannot play in a facility in which they play four or more regular season games.
+
+The 1987 NCAA men's basketball tournament was also the first tournament to use the [[Three-point field goal|three-point shot]].
+
+==Schedule and venues==
+{{Location map+|USA|width=450|float=right|caption=1987 first and second rounds|places= 
+{{Location map~|USA|mark=green pog.svg|lat_deg=33.748995|lon_deg=-84.387982|position=right|background=#FFFFFF|label=Atlanta|link=Omni Coliseum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.768403|lon_deg=-86.158068|position=bottom|background=#FFFFFF|label=Indianapolis|link=RCA Dome|Hoosier Dome}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=35.227087|lon_deg=-80.843127|position=top|background=#FFFFFF|label=Charlotte|link=Bojangles' Coliseum|Charlotte Coliseum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=43.048122|lon_deg=-76.147424|position=top|background=#FFFFFF|label=Syracuse|link=Carrier Dome}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=41.990833|lon_deg=-87.873889|position=top|background=#FFFFFF|label=Rosemont|link=Allstate Arena|Rosemont Horizon}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=33.520661|lon_deg=-86.802490|position=left|background=#FFFFFF|label=Birmingham|link=Birmingham Jefferson Convention Complex|BJCC Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=32.221743|lon_deg=-110.926479|position=bottom|background=#FFFFFF|label=Tucson|link=McKale Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=40.760779|lon_deg=-111.891047|position=top|background=#FFFFFF|label=Salt Lake City|link=Jon M. Huntsman Center}}
+}}
+
+{{Location map+|USA|width=450|float=right|caption=1987 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=47.606209|lon_deg=-122.332071|position=right|background=#FFFFFF|label=Seattle|link=Kingdome}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=38.252665|lon_deg=-85.758456|position=left|background=#FFFFFF|label=Louisville|link=Freedom Hall}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=39.103118|lon_deg=-84.512020|position=top|background=#FFFFFF|label=Cincinnati|link=US Bank Arena|Riverfront Coliseum}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=39.952584|lon_deg=-74.097086|position=bottom|background=#FFFFFF|label=E. Rutherford|link=Izod Center|Meadowlands Arena}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=29.951066|lon_deg=-90.071532|position=bottom|background=#FFFFFF|label=New Orleans|link=Mercedes-Benz Superdome|Louisiana Superdome}}
+}}
+
+The following are the sites that were selected to host each round of the 1987 tournament:
+
+'''First and Second Rounds'''
+*March 12 and 14
+**'''East Region'''
+*** [[Bojangles' Coliseum|Charlotte Coliseum]], [[Charlotte, North Carolina]] (Host: [[University of North Carolina at Charlotte]])
+**'''Midwest Region'''
+*** [[Hoosier Dome]], [[Indianapolis|Indianapolis, Indiana]] (Hosts: [[Butler University]], [[Midwestern Collegiate Conference]])
+**'''Southeast Region'''
+*** [[Legacy Arena|Birmingham-Jefferson Civic Center Coliseum]], [[Birmingham, Alabama]] (Host: [[Southeastern Conference]])
+**'''West Region'''
+*** [[Jon M. Huntsman Center]], [[Salt Lake City|Salt Lake City, Utah]] (Host: [[University of Utah]])
+*March 13 and 15
+**'''East Region'''
+*** [[Carrier Dome]], [[Syracuse, New York]] (Host: [[Syracuse University]])
+**'''Midwest Region'''
+*** [[Allstate Arena|Rosemont Horizon]], [[Rosemont, Illinois]] (Host: [[DePaul University]])
+**'''Southeast Region'''
+*** [[Omni Coliseum]], [[Atlanta|Atlanta, Georgia]] (Host: [[Georgia Tech]])
+**'''West Region'''
+*** [[McKale Center]], [[Tucson, Arizona]] (Host: [[University of Arizona]])
+
+'''Regional semifinals and finals''' (Sweet Sixteen and Elite Eight)
+*March 19 and 21
+**'''East Regional''', [[Brendan Byrne Arena]], [[East Rutherford, New Jersey]] (Hosts: [[Seton Hall University]], [[Big East Conference]])
+**'''Southeast Regional''', [[Freedom Hall]], [[Louisville, Kentucky]] (Host: [[University of Louisville]])
+*March 20 and 22
+**'''Midwest Regional''', [[Heritage Bank Center|Riverfront Coliseum]], [[Cincinnati|Cincinnati, Ohio]] (Hosts: [[University of Cincinnati]], [[Xavier University]])
+**'''West Regional''', [[Kingdome]], [[Seattle|Seattle, Washington]] (Host: [[University of Washington]])
+
+'''National semifinals and championship''' (Final Four and championship)
+*March 28 and 30
+**[[Mercedes-Benz Superdome|Louisiana Superdome]], [[New Orleans|New Orleans, Louisiana]] (Host: [[Tulane University]])
+
+==Teams==
+{| class=wikitable
+! Region !! Seed !! Team !! Coach !! Conference !! Finished !! Final Opponent !! Score
+|-
+! colspan=8 | East
+|-
+| East || 1|| [[1986–87 North Carolina Tar Heels men's basketball team|North Carolina]] || [[Dean Smith]] || Atlantic Coast || Regional Runner-up||2 [[1986–87 Syracuse Orangemen basketball team|Syracuse]]||L 79–75
+|-
+| East || 2|| [[1986–87 Syracuse Orangemen basketball team|Syracuse]] || [[Jim Boeheim]] || Big East || Runner-up||1 [[1986–87 Indiana Hoosiers men's basketball team|Indiana]]||L 74–73
+|-
+| East || 3|| [[1986–87 Purdue Boilermakers men's basketball team|Purdue]] || [[Gene Keady]] || Big Ten || Round of 32||6 [[Florida Gators men's basketball|Florida]]||L 85–66
+|-
+| East || 4|| [[1986–87 TCU Horned Frogs basketball team|TCU]] || [[Jim Killingsworth]] || Southwest || Round of 32||5 [[Notre Dame Fighting Irish men's basketball|Notre Dame]]||L 58–57
+|-
+| East || 5|| [[1986–87 Notre Dame Fighting Irish men's basketball team|Notre Dame]] || [[Digger Phelps]] || Independent || Sweet Sixteen||1 [[1986–87 North Carolina Tar Heels men's basketball team|North Carolina]]||L 74–68
+|-
+| East || 6|| [[1986–87 Florida Gators men's basketball team|Florida]] || [[Norm Sloan]] || Southeastern || Sweet Sixteen||2 [[1986–87 Syracuse Orangemen basketball team|Syracuse]]||L 87–81
+|-
+| East || 7|| [[1986–87 West Virginia Mountaineers men's basketball team|West Virginia]] || [[Gale Catlett]] || Atlantic 10 || Round of 64||10 [[Western Kentucky Hilltoppers basketball|Western Kentucky]]||L 64–62
+|-
+| East || 8|| [[1986–87 Navy Midshipmen men's basketball team|Navy]] || [[Pete Herrmann]] || Colonial || Round of 64||9 [[1986–87 Michigan Wolverines men's basketball team|Michigan]]||L 97–82
+|-
+| East || 9|| [[1986–87 Michigan Wolverines men's basketball team|Michigan]] || [[Bill Frieder]] || Big Ten || Round of 32||1 [[1986–87 North Carolina Tar Heels men's basketball team|North Carolina]]||L 109–97
+|-
+| East || 10|| [[1986–87 Western Kentucky Hilltoppers basketball team|Western Kentucky]] || [[Murray Arnold]] || Sun Belt || Round of 32||2 [[1986–87 Syracuse Orangemen basketball team|Syracuse]]||L 104–86
+|-
+| East || 11|| [[1986–87 NC State Wolfpack men's basketball team|NC State]] || [[Jim Valvano]] || Atlantic Coast || Round of 64||6 [[Florida Gators men's basketball|Florida]]||L 82–70
+|-
+| East || 12|| [[1986–87 Middle Tennessee Blue Raiders men's basketball team|Middle Tennessee State]] || [[Bruce Stewart (basketball)|Bruce Stewart]] || Ohio Valley || Round of 64||5 [[Notre Dame Fighting Irish men's basketball|Notre Dame]]||L 84–71
+|-
+| East || 13|| [[1986–87 Marshall Thundering Herd men's basketball team|Marshall]] || [[Rick Huckabay]] || Southern || Round of 64||4 [[TCU Horned Frogs men's basketball|TCU]]||L 76–60
+|-
+| East || 14|| [[1986–87 Northeastern Huskies men's basketball team|Northeastern]] || [[Karl Fogel (basketball)|Karl Fogel]] || ECAC North || Round of 64||3 [[1986–87 Purdue Boilermakers men's basketball team|Purdue]]||L 104–95
+|-
+| East || 15|| [[1986–87 Georgia Southern Eagles men's basketball team|Georgia Southern]] || [[Frank Kerns]] || Trans America || Round of 64||2 [[1986–87 Syracuse Orangemen basketball team|Syracuse]]||L 79–73
+|-
+| East || 16|| [[1986–87 Penn Quakers men's basketball team|Penn]] || [[Tom Schneider (basketball)|Tom Schneider]] || Ivy League || Round of 64||1 [[1986–87 North Carolina Tar Heels men's basketball team|North Carolina]]||L 113–82
+|-
+! colspan=8 | Midwest
+|-
+| Midwest || 1|| [[1986–87 Indiana Hoosiers men's basketball team|Indiana]] || [[Bob Knight]] || Big Ten || '''Champion'''||2 [[1986–87 Syracuse Orangemen basketball team|Syracuse]]||W 74–73
+|-
+| Midwest || 2|| [[1986–87 Temple Owls men's basketball team|Temple]] || [[John Chaney (basketball coach)|John Chaney]] || Atlantic 10 || Round of 32||10 [[LSU Tigers basketball|LSU]]||L 72–62
+|-
+| Midwest || 3|| [[1986–87 DePaul Blue Demons men's basketball team|DePaul]] || [[Joey Meyer (basketball)|Joey Meyer]] || Independent ||| Sweet Sixteen||10 [[LSU Tigers basketball|LSU]]||L 63–58
+|-
+| Midwest || 4|| [[1986–87 Missouri Tigers men's basketball team|Missouri]] || [[Norm Stewart]] || Big Eight || Round of 64||13 [[Xavier Musketeers men's basketball|Xavier]]||L 70–69
+|-
+| Midwest || 5|| [[1986–87 Duke Blue Devils men's basketball team|Duke]] || [[Mike Krzyzewski]] || Atlantic Coast || Sweet Sixteen||1 [[1986–87 Indiana Hoosiers men's basketball team|Indiana]]||L 88–82
+|-
+| Midwest || 6|| [[1986–87 St. John's Redmen basketball team|St. John's]] || [[Lou Carnesecca]] || Big East || Round of 32||3 [[DePaul Blue Demons men's basketball|DePaul]]||L 83–75
+|-
+| Midwest || 7|| [[1986–87 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]] || [[Bobby Cremins]] || Atlantic Coast || Round of 64||10 [[LSU Tigers basketball|LSU]]||L 85–79
+|-
+| Midwest || 8|| [[1986–87 Auburn Tigers men's basketball team|Auburn]] || [[Sonny Smith]] || Southeastern || Round of 32||1 [[1986–87 Indiana Hoosiers men's basketball team|Indiana]]||L 107–90
+|-
+| Midwest || 9|| [[1986–87 San Diego Toreros men's basketball team|San Diego]] || [[Hank Egan]] || West Coast || Round of 64||8 [[1986–87 Auburn Tigers men's basketball team|Auburn]]||L 62–61
+|-
+| Midwest || 10|| [[1986–87 LSU Tigers men's basketball team|LSU]] || [[Dale Brown (basketball)|Dale Brown]] || Southeastern || Regional Runner-up||1 [[1986–87 Indiana Hoosiers men's basketball team|Indiana]]||L 77–76
+|-
+| Midwest || 11|| [[1986–87 Wichita State Shockers men's basketball team|Wichita State]] || [[Eddie Fogler]] || Missouri Valley || Round of 64||6 [[1986–87 St. John's Redmen basketball team|St. John's]]||L 57–55
+|-
+| Midwest || 12|| [[1986–87 Texas A&M Aggies men's basketball team|Texas A&M]] || [[Shelby Metcalf]] || Southwest || Round of 64||5 [[1986–87 Duke Blue Devils men's basketball team|Duke]]||L 58–51
+|-
+| Midwest || 13|| [[1986–87 Xavier Musketeers men's basketball team|Xavier]] || [[Pete Gillen]] || Midwestern || Round of 32||5 [[1986–87 Duke Blue Devils men's basketball team|Duke]]||L 65–60
+|-
+| Midwest || 14|| [[1986–87 Louisiana Tech Bulldogs basketball team|Louisiana Tech]] || [[Tommy Joe Eagles]] || Southland || Round of 64||3 [[DePaul Blue Demons men's basketball|DePaul]]||L 76–62
+|-
+| Midwest || 15|| [[1986–87 Southern Jaguars basketball team|Southern]] || [[Ben Jobe]] || Southwest Athletic || Round of 64||2 [[1986–87 Temple Owls men's basketball team|Temple]]||L 75–56
+|-
+| Midwest || 16|| [[1986–87 Fairfield Stags men's basketball team|Fairfield]] || [[Mitch Buonaguro]] || Metro Atlantic || Round of 64||1 [[1986–87 Indiana Hoosiers men's basketball team|Indiana]]||L 92–58
+|-
+! colspan=8 | Southeast
+|-
+| Southeast || 1|| [[1986–87 Georgetown Hoyas men's basketball team|Georgetown]] || [[John Thompson (basketball)|John Thompson]] || Big East || Regional Runner-up||6 [[1986–87 Providence Friars men's basketball team|Providence]]||L 88–73
+|-
+| Southeast || 2|| [[1986–87 Alabama Crimson Tide men's basketball team|Alabama]] || [[Wimp Sanderson]] || Southeastern || Sweet Sixteen||6 [[1986–87 Providence Friars men's basketball team|Providence]]||L 103–82
+|-
+| Southeast || 3|| [[1986–87 Illinois Fighting Illini men's basketball team|Illinois]] || [[Lou Henson]] || Big Ten || Round of 64||14 [[Austin Peay Governors men's basketball|Austin Peay]]||L 68–67
+|-
+| Southeast || 4|| [[1986–87 Clemson Tigers men's basketball team|Clemson]] || [[Cliff Ellis]] || Atlantic Coast || Round of 64||13 [[Missouri State Bears basketball|Southwest Missouri State]]||L 65–60
+|-
+| Southeast || 5|| [[1986–87 Kansas Jayhawks men's basketball team|Kansas]] || [[Larry Brown (basketball)|Larry Brown]] || Big Eight || Sweet Sixteen||1 [[1986–87 Georgetown Hoyas men's basketball team|Georgetown]]||L 70–57
+|-
+| Southeast || 6|| [[1986–87 Providence Friars men's basketball team|Providence]] || [[Rick Pitino]] || Big East || National semifinals||2 [[1986–87 Syracuse Orangemen basketball team|Syracuse]]||L 77–63
+|-
+| Southeast || 7|| [[1986–87 New Orleans Privateers men's basketball team|New Orleans]] || [[Benny Dees]] || Independent || Round of 32||2 [[Alabama Crimson Tide men's basketball|Alabama]]||L 101–76
+|-
+| Southeast || 8|| [[1986–87 Kentucky Wildcats men's basketball team|Kentucky]] || [[Eddie Sutton]] || Southeastern || Round of 64||9 [[1986–87 Ohio State Buckeyes men's basketball team|Ohio State]]||L 91–77
+|-
+| Southeast || 9|| [[1986–87 Ohio State Buckeyes men's basketball team|Ohio State]] || [[Gary Williams]] || Big Ten || Round of 32||1 [[1986–87 Georgetown Hoyas men's basketball team|Georgetown]]||L 82–79
+|-
+| Southeast || 10|| [[1986–87 BYU Cougars men's basketball team|BYU]] || [[LaDell Andersen]] || Western Athletic || Round of 64||7 [[New Orleans Privateers men's basketball|New Orleans]]||L 83–79
+|-
+| Southeast || 11|| [[1986–87 UAB Blazers men's basketball team|UAB]] || [[Gene Bartow]] || Sun Belt || Round of 64||6 [[1986–87 Providence Friars men's basketball team|Providence]]||L 90–68
+|-
+| Southeast || 12|| [[1986–87 Houston Cougars men's basketball team|Houston]] || [[Pat Foster]] || Southwest || Round of 64||5 [[1986–87 Kansas Jayhawks men's basketball team|Kansas]]||L 66–55
+|-
+| Southeast || 13|| [[1986–87 Southwest Missouri State Bears basketball team|Southwest Missouri State]] || [[Charlie Spoonhour]] || Mid-Continent || Round of 32||5 [[1986–87 Kansas Jayhawks men's basketball team|Kansas]]||L 67–63
+|-
+| Southeast || 14|| [[1986–87 Austin Peay Governors basketball team|Austin Peay]] || [[Lake Kelly]] || Ohio Valley || Round of 32||6 [[1986–87 Providence Friars men's basketball team|Providence]]||L 90–87
+|-
+| Southeast || 15|| [[1986–87 North Carolina A&T Aggies men's basketball team|North Carolina A&T]] || [[Don Corbett]] || Mid-Eastern || Round of 64||2 [[Alabama Crimson Tide men's basketball|Alabama]]||L 88–71
+|-
+| Southeast || 16|| [[1986–87 Bucknell Bison men's basketball team|Bucknell]] || [[Charles Woollum]] || East Coast || Round of 64||1 [[1986–87 Georgetown Hoyas men's basketball team|Georgetown]]||L 75–53
+|-
+! colspan=8 | West
+|-
+| West || 1|| [[1986–87 UNLV Runnin' Rebels basketball team|UNLV]] || [[Jerry Tarkanian]] || Pacific Coast || National semifinals||1 [[1986–87 Indiana Hoosiers men's basketball team|Indiana]]||L 97–93
+|-
+| West || 2|| [[1986–87 Iowa Hawkeyes men's basketball team|Iowa]] || [[Tom Davis (basketball, born 1938)|Tom Davis]] || Big Ten || Regional Runner-up||1 [[1986–87 UNLV Runnin' Rebels basketball team|UNLV]]||L 84–81
+|-
+| West || 3|| [[1986–87 Pittsburgh Panthers men's basketball team|Pittsburgh]] || [[Paul Evans (basketball coach)|Paul Evans]] || Big East || Round of 32||6 [[1986–87 Oklahoma Sooners men's basketball team|Oklahoma]]||L 96–93
+|-
+| West || 4|| [[1986–87 UCLA Bruins men's basketball team|UCLA]] || [[Walt Hazzard]] || Pacific-10 || Round of 32||12 [[1986–87 Wyoming Cowboys basketball team|Wyoming]]||L 78–68
+|-
+| West || 5|| [[1986–87 Virginia Cavaliers men's basketball team|Virginia]] || [[Terry Holland]] || Atlantic Coast || Round of 64||12 [[1986–87 Wyoming Cowboys basketball team|Wyoming]]||L 64–60
+|-
+| West || 6|| [[1986–87 Oklahoma Sooners men's basketball team|Oklahoma]] || [[Billy Tubbs]] || Big Eight || Sweet Sixteen||2 [[1986–87 Iowa Hawkeyes men's basketball team|Iowa]]||L 93–91
+|-
+| West || 7|| [[1986–87 UTEP Miners men's basketball team|UTEP]] || [[Don Haskins]] || Western Athletic || Round of 32||2 [[1986–87 Iowa Hawkeyes men's basketball team|Iowa]]||L 84–82
+|-
+| West || 8|| [[1986–87 Georgia Bulldogs basketball team|Georgia]] || [[Hugh Durham]] || Southeastern || Round of 64||9 [[Kansas State Wildcats men's basketball|Kansas State]]||L 82–79
+|-
+| West || 9|| [[1986–87 Kansas State Wildcats men's basketball team|Kansas State]] || [[Lon Kruger]] || Big Eight || Round of 32||1 [[1986–87 UNLV Runnin' Rebels basketball team|UNLV]]||L 80–61
+|-
+| West || 10|| [[1986–87 Arizona Wildcats men's basketball team|Arizona]] || [[Lute Olson]] || Pacific-10 || Round of 64||7 [[1986–87 UTEP Miners men's basketball team|UTEP]]||L 98–91
+|-
+| West || 11|| [[1986–87 Tulsa Golden Hurricane men's basketball team|Tulsa]] || [[J. D. Barnett]] || Missouri Valley || Round of 64||6 [[1986–87 Oklahoma Sooners men's basketball team|Oklahoma]]||L 74–69
+|-
+| West || 12|| [[1986–87 Wyoming Cowboys basketball team|Wyoming]] || [[Jim Brandenburg (basketball)|Jim Brandenburg]] || Western Athletic || Sweet Sixteen||1 [[1986–87 UNLV Runnin' Rebels basketball team|UNLV]]||L 92–78
+|-
+| West || 13|| [[1986–87 Central Michigan Chippewas men's basketball team|Central Michigan]] || [[Charlie Coles]] || Mid-American || Round of 64||4 [[1986–87 UCLA Bruins men's basketball team|UCLA]]||L 92–73
+|-
+| West || 14|| [[1986–87 Marist Red Foxes men's basketball team|Marist]] || [[Dave Magarity]] || ECAC Metro || Round of 64||3 [[1986–87 Pittsburgh Panthers men's basketball team|Pittsburgh]]||L 93–68
+|-
+| West || 15|| [[1986–87 Santa Clara Broncos men's basketball team|Santa Clara]] || [[Carroll Williams (basketball)|Carroll Williams]] || West Coast || Round of 64||2 [[1986–87 Iowa Hawkeyes men's basketball team|Iowa]]||L 99–76
+|-
+| West || 16|| [[1986–87 Idaho State Bengals men's basketball team|Idaho State]] || [[Jim Boutin]] || Big Sky || Round of 64||1 [[1986–87 UNLV Runnin' Rebels basketball team|UNLV]]||L 95–70
+|}
+
+==Bracket==
+
+===East Regional – East Rutherford, New Jersey===
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Charlotte Coliseum|Charlotte]]'''
+ | subgroup2= '''[[Charlotte Coliseum|Charlotte]]'''
+ | subgroup3= '''[[Carrier Dome|Syracuse]]'''
+ | subgroup4= '''[[Carrier Dome|Syracuse]]'''
+| RD1-team01='''North Carolina'''
+ | RD1-score01='''113'''
+ | RD1-seed02=16
+ | RD1-team02=Penn
+ | RD1-score02=82
+ | RD1-seed03=8
+ | RD1-team03=Navy
+ | RD1-score03=82
+ | RD1-seed04=9
+ | RD1-team04='''Michigan'''
+ | RD1-score04='''97'''
+ | RD1-seed05=5
+ | RD1-team05='''Notre Dame'''
+ | RD1-score05='''84'''
+ | RD1-seed06=12
+ | RD1-team06=Middle Tennessee State
+ | RD1-score06=71
+ | RD1-seed07=4
+ | RD1-team07='''TCU'''
+ | RD1-score07='''76'''
+ | RD1-seed08=13
+ | RD1-team08=Marshall
+ | RD1-score08=60
+ | RD1-seed09=6
+ | RD1-team09='''Florida'''
+ | RD1-score09='''82'''
+ | RD1-seed10=11
+ | RD1-team10=NC State
+ | RD1-score10=70
+ | RD1-seed11=3
+ | RD1-team11='''Purdue'''
+ | RD1-score11='''104'''
+ | RD1-seed12=14
+ | RD1-team12=Northeastern
+ | RD1-score12=95
+ | RD1-seed13=7
+ | RD1-team13=West Virginia
+ | RD1-score13=62
+ | RD1-seed14=10
+ | RD1-team14='''Western Kentucky'''
+ | RD1-score14='''64'''
+ | RD1-seed15=2
+ | RD1-team15='''Syracuse'''
+ | RD1-score15='''79'''
+ | RD1-seed16=15
+ | RD1-team16=Georgia Southern
+ | RD1-score16=73
+ | RD2-seed01=1
+ | RD2-team01='''North Carolina'''
+ | RD2-score01='''109'''
+ | RD2-seed02=9
+ | RD2-team02=Michigan
+ | RD2-score02=97
+ | RD2-seed03=5
+ | RD2-team03='''Notre Dame'''
+ | RD2-score03='''58'''
+ | RD2-seed04=4
+ | RD2-team04=TCU
+ | RD2-score04=57
+ | RD2-seed05=6
+ | RD2-team05='''Florida'''
+ | RD2-score05='''85'''
+ | RD2-seed06=3
+ | RD2-team06=Purdue
+ | RD2-score06=66
+ | RD2-seed07=10
+ | RD2-team07=Western Kentucky
+ | RD2-score07=86
+ | RD2-seed08=2
+ | RD2-team08='''Syracuse'''
+ | RD2-score08='''104'''
+ | RD3-seed01=1
+ | RD3-team01='''North Carolina'''
+ | RD3-score01='''74'''
+ | RD3-seed02=5
+ | RD3-team02=Notre Dame
+ | RD3-score02=68
+ | RD3-seed03=6
+ | RD3-team03=Florida
+ | RD3-score03=81
+ | RD3-seed04=2
+ | RD3-team04='''Syracuse'''
+ | RD3-score04='''87'''
+ | RD4-seed01=1
+ | RD4-team01=North Carolina
+ | RD4-score01=75
+ | RD4-seed02=2
+ | RD4-team02='''Syracuse'''
+ | RD4-score02='''79'''
+}}
+
+====Regional Final Summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 21
+ | time = 
+ | report = [https://www.sports-reference.com/cbb/boxscores/1987-03-21-north-carolina.html box score]
+ | team1 = '''#2 Syracuse Orangemen'''
+ | score1 =  '''79'''
+ | team2 = #1 North Carolina Tar Heels
+ | score2 = 75
+ | points1 = [[Rony Seikaly|R. Seikaly]] – 26
+ | rebounds1 = [[Derrick Coleman|D. Coleman]] – 14
+ | assist1 = [[Sherman Douglas|S. Douglas]] – 9
+ | otherstat1 = 
+ | points2 = [[Kenny Smith|K. Smith]] – 25
+ | rebounds2 = [[Joe Wolf|J. Wolf]] – 10
+ | assist2 = [[Kenny Smith|K. Smith]] – 7
+ | otherstat2 = '''Halftime Score:''' Syracuse, 41-30
+ | place = Brendan Byrne Arena – East Rutherford, New Jersey
+ | attendance = 
+ | referee =Tyler Honsen
+ | TV = CBS
+}}
+
+===Southeast Regional – Louisville, Kentucky===
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Omni Coliseum|Atlanta]]'''
+ | subgroup2= '''[[Omni Coliseum|Atlanta]]'''
+ | subgroup3= '''[[BJCC Arena|Birmingham]]'''
+ | subgroup4= '''[[BJCC Arena|Birmingham]]'''
+| RD1-team01='''Georgetown'''
+ | RD1-score01='''75'''
+ | RD1-seed02=16
+ | RD1-team02=Bucknell
+ | RD1-score02=53
+ | RD1-seed03=8
+ | RD1-team03=Kentucky
+ | RD1-score03=77
+ | RD1-seed04=9
+ | RD1-team04='''Ohio State'''
+ | RD1-score04='''91'''
+ | RD1-seed05=5
+ | RD1-team05='''Kansas'''
+ | RD1-score05='''66'''
+ | RD1-seed06=12
+ | RD1-team06=Houston
+ | RD1-score06=55
+ | RD1-seed07=4
+ | RD1-team07=Clemson
+ | RD1-score07=60
+ | RD1-seed08=13
+ | RD1-team08='''Southwest Missouri State'''
+ | RD1-score08='''65'''
+ | RD1-seed09=6
+ | RD1-team09='''Providence'''
+ | RD1-score09='''90'''
+ | RD1-seed10=11
+ | RD1-team10=UAB
+ | RD1-score10=68
+ | RD1-seed11=3
+ | RD1-team11=Illinois
+ | RD1-score11=67
+ | RD1-seed12=14
+ | RD1-team12='''Austin Peay'''
+ | RD1-score12='''68'''
+ | RD1-seed13=7
+ | RD1-team13='''New Orleans'''
+ | RD1-score13='''83'''
+ | RD1-seed14=10
+ | RD1-team14=BYU
+ | RD1-score14=79
+ | RD1-seed15=2
+ | RD1-team15='''Alabama'''
+ | RD1-score15='''88'''
+ | RD1-seed16=15
+ | RD1-team16=North Carolina A&T
+ | RD1-score16=71
+ | RD2-seed01=1
+ | RD2-team01='''Georgetown'''
+ | RD2-score01='''82'''
+ | RD2-seed02=9
+ | RD2-team02=Ohio State
+ | RD2-score02=79
+ | RD2-seed03=5
+ | RD2-team03='''Kansas'''
+ | RD2-score03='''67'''
+ | RD2-seed04=13
+ | RD2-team04=Southwest Missouri State
+ | RD2-score04=63
+ | RD2-seed05=6
+ | RD2-team05='''Providence'''
+ | RD2-score05='''90<sup>OT</sup>'''
+ | RD2-seed06=14
+ | RD2-team06=Austin Peay
+ | RD2-score06=87
+ | RD2-seed07=7
+ | RD2-team07=New Orleans
+ | RD2-score07=76
+ | RD2-seed08=2
+ | RD2-team08='''Alabama'''
+ | RD2-score08='''101'''
+ | RD3-seed01=1
+ | RD3-team01='''Georgetown'''
+ | RD3-score01='''70'''
+ | RD3-seed02=5
+ | RD3-team02=Kansas
+ | RD3-score02=57
+ | RD3-seed03=6
+ | RD3-team03='''Providence'''
+ | RD3-score03='''103'''
+ | RD3-seed04=2
+ | RD3-team04=Alabama
+ | RD3-score04=82
+ | RD4-seed01=1
+ | RD4-team01=Georgetown
+ | RD4-score01=73
+ | RD4-seed02=6
+ | RD4-team02='''Providence'''
+ | RD4-score02='''88'''
+}}
+
+====Regional Final Summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 21
+ | time = 
+ | report = [https://www.sports-reference.com/cbb/boxscores/1987-03-21-georgetown.html box score]
+ | team1 = '''#6 Providence Friars'''
+ | score1 =  '''88'''
+ | team2 = #1 Georgetown Hoyas
+ | score2 = 73
+ | points1 = [[Billy Donovan|B. Donovan]] – 20
+ | rebounds1 = D. Kipfer – 5
+ | assist1 = [[Billy Donovan|B. Donovan]] – 6
+ | otherstat1 = 
+ | points2 = [[Reggie Williams (basketball, born 1964)|R. Williams]] – 25
+ | rebounds2 = P. McDonald – 10
+ | assist2 = B. Winston – 4
+ | otherstat2 = '''Halftime Score:''' Providence, 54-37
+ | place = Freedom Hall – Louisville, Kentucky
+ | attendance = 
+ | referee = 
+ | TV = CBS
+}}
+
+===Midwest Regional – Cincinnati, Ohio===
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Hoosier Dome|Indianapolis]]'''
+ | subgroup2= '''[[Hoosier Dome|Indianapolis]]'''
+ | subgroup3= '''[[Rosemont Horizon|Rosemont]]'''
+ | subgroup4= '''[[Rosemont Horizon|Rosemont]]'''
+| RD1-team01='''Indiana'''
+ | RD1-score01='''92'''
+ | RD1-seed02=16
+ | RD1-team02=Fairfield
+ | RD1-score02=58
+ | RD1-seed03=8
+ | RD1-team03='''Auburn'''
+ | RD1-score03='''62'''
+ | RD1-seed04=9
+ | RD1-team04=San Diego
+ | RD1-score04=61
+ | RD1-seed05=5
+ | RD1-team05='''Duke'''
+ | RD1-score05='''58'''
+ | RD1-seed06=12
+ | RD1-team06=Texas A&M
+ | RD1-score06=51
+ | RD1-seed07=4
+ | RD1-team07=Missouri
+ | RD1-score07=69
+ | RD1-seed08=13
+ | RD1-team08='''Xavier'''
+ | RD1-score08='''70'''
+ | RD1-seed09=6
+ | RD1-team09='''St. John's'''
+ | RD1-score09='''57'''
+ | RD1-seed10=11
+ | RD1-team10=Wichita State
+ | RD1-score10=55
+ | RD1-seed11=3
+ | RD1-team11='''DePaul'''
+ | RD1-score11='''76'''
+ | RD1-seed12=14
+ | RD1-team12=Louisiana Tech
+ | RD1-score12=62
+ | RD1-seed13=7
+ | RD1-team13=Georgia Tech
+ | RD1-score13=79
+ | RD1-seed14=10
+ | RD1-team14='''LSU'''
+ | RD1-score14='''85'''
+ | RD1-seed15=2
+ | RD1-team15='''Temple'''
+ | RD1-score15='''75'''
+ | RD1-seed16=15
+ | RD1-team16=Southern
+ | RD1-score16=56
+ | RD2-seed01=1
+ | RD2-team01='''Indiana'''
+ | RD2-score01='''107'''
+ | RD2-seed02=8
+ | RD2-team02=Auburn
+ | RD2-score02=90
+ | RD2-seed03=5
+ | RD2-team03='''Duke'''
+ | RD2-score03='''65'''
+ | RD2-seed04=13
+ | RD2-team04=Xavier
+ | RD2-score04=60
+ | RD2-seed05=6
+ | RD2-team05=St. John's
+ | RD2-score05=75
+ | RD2-seed06=3
+ | RD2-team06='''DePaul'''
+ | RD2-score06='''83<sup>OT</sup>'''
+ | RD2-seed07=10
+ | RD2-team07='''LSU'''
+ | RD2-score07='''72'''
+ | RD2-seed08=2
+ | RD2-team08=Temple
+ | RD2-score08=62
+ | RD3-seed01=1
+ | RD3-team01='''Indiana'''
+ | RD3-score01='''88'''
+ | RD3-seed02=5
+ | RD3-team02=Duke
+ | RD3-score02=82
+ | RD3-seed03=3
+ | RD3-team03=DePaul
+ | RD3-score03=58
+ | RD3-seed04=10
+ | RD3-team04='''LSU'''
+ | RD3-score04='''63'''
+ | RD4-seed01=1
+ | RD4-team01='''Indiana'''
+ | RD4-score01='''77'''
+ | RD4-seed02=10
+ | RD4-team02=LSU
+ | RD4-score02=76
+}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Sunday, March 22
+ | time = 
+ | report = [https://www.sports-reference.com/cbb/boxscores/1987-03-22-indiana.html box score]
+ | team1 = '''#1 Indiana Hoosiers'''
+ | score1 =  '''77'''
+ | team2 = #10 LSU Tigers
+ | score2 = 76
+ | points1 = [[Steve Alford|S. Alford]] – 20
+ | rebounds1 = [[Dean Garrett|D. Garrett]] – 15
+ | assist1 = [[Steve Alford|S. Alford]] – 7
+ | otherstat1 = 
+ | points2 = [[Nikita Wilson|N. Wilson]] – 20
+ | rebounds2 = O. Brown, B. Woodside – 7
+ | assist2 = O. Brown – 8
+ | otherstat2 = '''Halftime Score:''' Indiana, 47-46
+ | place = Riverfront Coliseum – Cincinnati, Ohio
+ | attendance = 
+ | referee = Jim Burr, Tom Frahm, Paul Housman
+ | TV = CBS
+}}
+
+===West Regional – Seattle, Washington===
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Jon M. Huntsman Center|Salt Lake City]]'''
+ | subgroup2= '''[[Jon M. Huntsman Center|Salt Lake City]]'''
+ | subgroup3= '''[[McKale Center|Tucson]]'''
+ | subgroup4= '''[[McKale Center|Tucson]]'''
+| RD1-team01='''UNLV'''
+ | RD1-score01='''95'''
+ | RD1-seed02=16
+ | RD1-team02=Idaho State
+ | RD1-score02=70
+ | RD1-seed03=8
+ | RD1-team03=Georgia
+ | RD1-score03=79
+ | RD1-seed04=9
+ | RD1-team04='''Kansas State'''
+ | RD1-score04='''82<sup>OT</sup>'''
+ | RD1-seed05=5
+ | RD1-team05=Virginia
+ | RD1-score05=60
+ | RD1-seed06=12
+ | RD1-team06='''Wyoming'''
+ | RD1-score06='''64'''
+ | RD1-seed07=4
+ | RD1-team07='''UCLA'''
+ | RD1-score07='''92'''
+ | RD1-seed08=13
+ | RD1-team08=Central Michigan
+ | RD1-score08=73
+ | RD1-seed09=6
+ | RD1-team09='''Oklahoma'''
+ | RD1-score09='''74'''
+ | RD1-seed10=11
+ | RD1-team10=Tulsa
+ | RD1-score10=69
+ | RD1-seed11=3
+ | RD1-team11='''Pittsburgh'''
+ | RD1-score11='''93'''
+ | RD1-seed12=14
+ | RD1-team12=Marist
+ | RD1-score12=68
+ | RD1-seed13=7
+ | RD1-team13='''UTEP'''
+ | RD1-score13='''98<sup>OT</sup>'''
+ | RD1-seed14=10
+ | RD1-team14=Arizona
+ | RD1-score14=91
+ | RD1-seed15=2
+ | RD1-team15='''Iowa'''
+ | RD1-score15='''99'''
+ | RD1-seed16=15
+ | RD1-team16=Santa Clara
+ | RD1-score16=76
+ | RD2-seed01=1
+ | RD2-team01='''UNLV'''
+ | RD2-score01='''80'''
+ | RD2-seed02=9
+ | RD2-team02=Kansas State
+ | RD2-score02=61
+ | RD2-seed03=12
+ | RD2-team03='''Wyoming'''
+ | RD2-score03='''78'''
+ | RD2-seed04=4
+ | RD2-team04=UCLA
+ | RD2-score04=68
+ | RD2-seed05=6
+ | RD2-team05='''Oklahoma'''
+ | RD2-score05='''96'''
+ | RD2-seed06=3
+ | RD2-team06=Pittsburgh
+ | RD2-score06=93
+ | RD2-seed07=7
+ | RD2-team07=UTEP
+ | RD2-score07=82
+ | RD2-seed08=2
+ | RD2-team08='''Iowa'''
+ | RD2-score08='''84'''
+ | RD3-seed01=1
+ | RD3-team01='''UNLV'''
+ | RD3-score01='''92'''
+ | RD3-seed02=12
+ | RD3-team02=Wyoming
+ | RD3-score02=78
+ | RD3-seed03=6
+ | RD3-team03=Oklahoma
+ | RD3-score03=91
+ | RD3-seed04=2
+ | RD3-team04='''Iowa'''
+ | RD3-score04='''93<sup>OT</sup>'''
+ | RD4-seed01=1
+ | RD4-team01='''UNLV'''
+ | RD4-score01='''84'''
+ | RD4-seed02=2
+ | RD4-team02=Iowa
+ | RD4-score02=81
+}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Sunday, March 22
+ | time = 
+ | report = [https://www.sports-reference.com/cbb/boxscores/1987-03-22-iowa.html box score]
+ | team1 = '''#1 UNLV Runnin' Rebels'''
+ | score1 =  '''84'''
+ | team2 = #2 Iowa Hawkeyes
+ | score2 = 81
+ | points1 = [[Armen Gilliam|A. Gilliam]] – 27
+ | rebounds1 = [[Armen Gilliam|A. Gilliam]] – 10
+ | assist1 = [[Mark Wade|M. Wade]] – 12
+ | otherstat1 = 
+ | points2 = [[Kevin Gamble|K. Gamble]], [[B. J. Armstrong]] – 18
+ | rebounds2 = [[Brad Lohaus|B. Lohaus]] – 7
+ | assist2 = [[Roy Marble|R. Marble]] – 5
+ | otherstat2 = '''Halftime Score:''' Iowa, 58-42
+ | place = Kingdome – Seattle
+ | attendance = 
+ | referee = 
+ | TV = CBS
+}}
+
+===Final Four – New Orleans, Louisiana===
+{{4TeamBracket | RD1=National semifinals | RD2=National Championship Game
+ | RD1-seed1=E2
+ | RD1-team1='''Syracuse'''
+ | RD1-score1='''77'''
+ | RD1-seed2=SE6
+ | RD1-team2= Providence
+ | RD1-score2=63
+ | RD1-seed3=MW1
+ | RD1-team3='''Indiana'''
+ | RD1-score3='''97'''
+ | RD1-seed4=W1
+ | RD1-team4=UNLV
+ | RD1-score4=93
+ | RD2-seed1=E2
+ | RD2-team1=Syracuse
+ | RD2-score1=73
+ | RD2-seed2=MW1
+ | RD2-team2='''Indiana'''
+ | RD2-score2='''74'''
+}}
+
+===Game summaries===
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 28
+ | time = 
+ | report = [https://www.sports-reference.com/cbb/boxscores/1987-03-28-indiana.html box score]
+ | team1 = '''#MW1 Indiana Hoosiers'''
+ | score1 =  '''97'''
+ | team2 = #W1 UNLV Runnin' Rebels
+ | score2 = 93
+ | points1 = [[Steve Alford|S. Alford]] – 33
+ | rebounds1 = [[Dean Garrett|D. Garrett]] – 10
+ | assist1 = [[Rick Calloway|R. Calloway]] – 6
+ | otherstat1 = 
+ | points2 = [[Freddie Banks|F. Banks]] – 38
+ | rebounds2 = [[Armen Gilliam|A. Gilliam]] – 10
+ | assist2 = [[Mark Wade|M. Wade]] – 18
+ | otherstat2 = '''Halftime Score:''' Indiana, 53-47
+ | place = Louisiana Superdome – New Orleans
+ | attendance = 
+ | referee = John Clougherty, Dick Paparo, Rusty Herring
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #ffdead
+ | date = Saturday, March, 28
+ | time = 
+ | report = [https://www.sports-reference.com/cbb/boxscores/1987-03-28-providence.html box score]
+ | team1 = '''#E2 Syracuse Orangemen'''
+ | score1 =  '''77'''
+ | team2 = #SE6 Providence Friars
+ | score2 = 63
+ | points1 = G. Monroe – 20
+ | rebounds1 = [[Derrick Coleman|D. Coleman]] – 12
+ | assist1 = [[Sherman Douglas|S. Douglas]] – 6
+ | otherstat1 = 
+ | points2 = C. Screen – 18
+ | rebounds2 = J. Duda – 7
+ | assist2 = [[Billy Donovan|B. Donovan]] – 7
+ | otherstat2 = '''Halftime Score:''' Syracuse, 36-26
+ | place = Louisiana Superdome – New Orleans
+ | attendance = 
+ | referee = Paul Galvan, Luis Grillo, Don Rutledge
+ | TV = CBS
+}}
+
+===National Championship===
+{{Main|1987 NCAA Division I Men's Basketball Championship Game}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Monday, March, 30
+ | time = 
+ | report = [https://www.sports-reference.com/cbb/boxscores/1987-03-30-indiana.html Box score]
+ | team1 = '''#MW1 Indiana Hoosiers'''
+ | score1 =  '''74'''
+ | team2 = #E2 Syracuse Orangemen
+ | score2 = 73
+ | points1 = [[Steve Alford|S. Alford]] – 23
+ | rebounds1 = [[Dean Garrett|D. Garrett]] – 10
+ | assist1 = J. Hillman, [[Keith Smart|K. Smart]] – 6
+ | otherstat1 = 
+ | points2 = [[Sherman Douglas|S. Douglas]] – 20
+ | rebounds2 = [[Derrick Coleman|D. Coleman]] – 19
+ | assist2 = [[Sherman Douglas|S. Douglas]] – 7
+ | otherstat2 = '''Halftime Score:''' Indiana, 34-33
+ | place = Louisiana Superdome – New Orleans
+ | attendance = 
+ | referee = Joe Forte, Nolan Fine, Jody Sylvester
+ | TV = CBS
+}}
+
+==Trivia==
+* The [[59th Academy Awards]] show was broadcast on the [[American Broadcasting Company|ABC network]] at the same time as [[College Basketball on CBS|CBS network]] broadcast of the championship game between Indiana and Syracuse. Oscars show host [[Chevy Chase]] quipped later in the evening, "Is the game over yet?" The Oscars show would subsequently be scheduled around the tournament broadcast by moving it later in April for two years.
+* Tenth seeded LSU reached the Elite Eight for the second straight year without being favored to win a game. This time, the Tigers did not have the advantage of playing their first- and second-round games on their [[Pete Maravich Assembly Center|home court]]. They had previously reached the Final Four as an 11-seed in 1986, losing to eventual national champion Louisville Cardinals. The Tigers missed a shot at the buzzer and fell short of another trip to the Final Four, losing 77–76 to eventual national champion Indiana. It marked the fifth time in seven tournament appearances between 1979 and 1987 LSU was eliminated by the eventual national champion. The Tigers did not reach the  Elite Eight again until [[2006 NCAA Division I men's basketball tournament|2006]].
+* Years after the end of the tournament, Alabama, DePaul, Florida, Marshall, and North Carolina State all had their tournament spots vacated by the NCAA retroactively.<ref>{{cite web |title=2015 MEN'S FINAL FOUR RECORDS BOOK |url=http://fs.ncaa.org/Docs/stats/m_final4/2015/3Tournament.pdf |access-date=June 5, 2024}}</ref>
+* This marked the first time that [[CBS Sports]] used "[[One Shining Moment]]" during their tournament epilogue. Initially, the song was supposed to have been played after [[Super Bowl XXI]] (which was also aired on CBS), but due to time constraints, its debut was delayed until the national championship game. The opening words for the football version were "The ball is kicked"; in the reworked version, the word "kicked" was changed to "tipped" to suit the tournament.
+* The three losing coaches in the Final Four all eventually won national titles. Jerry Tarkanian was the first to do so, winning in [[1990 NCAA Division I men's basketball tournament|1990]] with [[1989–90 UNLV Runnin' Rebels basketball team|UNLV]] defeating [[1989–90 Duke Blue Devils men's basketball team|Duke]] 103–73. Rick Pitino followed in [[1996 NCAA Division I men's basketball tournament|1996]] with [[1995–96 Kentucky Wildcats men's basketball team|Kentucky]], defeating Jim Boeheim's [[1995–96 Syracuse Orangemen basketball team|Syracuse]] in the final. Boeheim would win in [[2003 NCAA Division I men's basketball tournament|2003]] with [[2002–03 Syracuse Orangemen basketball team|Syracuse]] by defeating [[2002–03 Kansas Jayhawks men's basketball team|Kansas]].
+* There were no teams from the [[Metro Conference]], [[Big South Conference]] or [[Gulf Star Conference]] in the tournament.  The Metro Conference allowed [[Memphis Tigers men's basketball|Memphis State]], which was serving an NCAA tournament ban that year, to compete in its conference tournament, which it won by defeating the defending 1986 National Champion [[Louisville Cardinals]] by the lopsided score 75 to 52 on the Cardinals' home court, Freedom Hall in Louisville, Kentucky.  The NCAA basketball tournament committee said as the conference had committed its automatic berth would go to its conference tournament winner, the conference lost its automatic berth that year, and no other schools received an at-large entry.  Most conferences now prohibit teams on postseason bans from participating in conference tournaments as a result, or have provisional automatic bids awarded to the eligible team that advanced the most. The Gulf Star and Big South did not have automatic bids to the tournament because many of the schools in these conferences were transitioning from other divisions.
+* During the selection show, there was a spot left open for the #12 seed in the Southeast Region. [[Kansas Jayhawks men's basketball|Kansas]], the 5th seed in the region, was due to face either [[Washington Huskies men's basketball|Washington]] or [[Houston Cougars|Houston]] in the first round. Washington was facing UCLA in the finals of the [[Pac-12|Pac-10]] tournament at the time the selections were announced. UCLA held on to defeat Washington 76–62, putting Houston into the field of 64.
+* [[1986–87 Florida Gators men's basketball team|Florida]] made the NCAA Tournament for the first time, making it to the Sweet Sixteen. Coincidentally, [[1986–87 Providence Friars men's basketball team|Providence]] was led to the Final Four by [[Billy Donovan]], who would go on to coach the Gators to multiple Final Fours and 2 national titles.
+* For the second time in 5 years, a rule involving how the clock would run after a made basket played a massive role at the end of a title game. In 1983, N.C. State won the title on a dunk with 1 second left, as the clock ran through the dunk and ran out before Houston could do anything. In 1987, Syracuse players (either unaware of the clock-running post basket or freezing under pressure) let 4 seconds run off the clock after Keith Smart's made jumper; only 1 second was left when a timeout was called, and the Orangemen's last shot was missed to give Indiana the national title. For the 1993–94 season, the rules were permanently changed, so with 1 minute or less in a half or overtime the clock stops when a basket is made and doesn't start again until the ball is inbounded by the other team (regardless of whether they use a timeout first or not).
+
+==Announcers==
+[[Road to the Final Four|CBS]] Studio Hosts:
+*[[Jim Nantz]] and [[James Brown (sportscaster)|James Brown]]
+[[ESPN]] studio hosts:
+*[[John Saunders (journalist)|John Saunders]] (daytime), [[Bob Ley]] (primetime) and [[Dick Vitale]]
+*[[Brent Musburger]] and [[Billy Packer]] – first round (Virginia–Wyoming) at Salt Lake City, Utah; Second Round at Indianapolis, Indiana and Rosemont, Illinois; East Regional at East Rutherford, New Jersey; Midwest Regional Final at Cincinnati, Ohio; Final Four at New Orleans, Louisiana
+*[[Dick Stockton]] and [[Tom Heinsohn]] – First (Oklahoma–Tulsa) and Second Rounds at Tucson, Arizona; Southeast Regional semifinal (Georgetown–Kansas) and Regional Final at Louisville, Kentucky
+*[[Verne Lundquist]] and [[Billy Cunningham]] – second round at Charlotte, North Carolina and Atlanta, Georgia; Midwest Regional semifinal (Duke-Indiana) at Cincinnati, Ohio; West Regional Final at Seattle, Washington
+*[[Tom Hammond]] and [[Larry Conley]] – Southeast Regional semifinal (Alabama–Providence) at Louisville, Kentucky
+*[[Mike Patrick]] and [[Jack Givens]] - Midwest Regional semifinal (LSU-DePaul) at Cincinnati, Ohio
+*[[Tim Brant]] and [[Bill Raftery]] – second round at Syracuse, New York; West Regional semifinals at Seattle, Washington
+*[[Mike Patrick]] and [[Larry Conley]] – first (Alabama–North Carolina A&T, Providence–UAB) and second rounds at Birmingham, Alabama
+*[[Gary Bender]] and [[Hubie Brown]] – second round at Salt Lake City, Utah
+*Jim Thacker and [[Jack Givens]] – first round (North Carolina–Pennsylvania, TCU–Marshall) at Charlotte, North Carolina
+*[[Frank Herzog]] and [[Bucky Waters]] – first round (Notre Dame–Middle Tennessee State, Navy–Michigan) at Charlotte, North Carolina
+*[[Mike Gorman]] and [[Ron Perry (basketball, born 1958)|Ron Perry]] – first round (Syracuse–Georgia Southern, Purdue–Northeastern) at Syracuse, New York
+*Phil Stone and [[Bill Raftery]] – first round (Florida–N.C. State, West Virginia–Western Kentucky) at Syracuse, New York
+*[[John Sanders (sportscaster)|John Sanders]] and [[Joe Dean]] – first round (Georgetown–Bucknell) at Atlanta, Georgia
+*[[John Sanders (sportscaster)|John Sanders]] and [[Dave Gavitt]] – first round (Kentucky–Ohio State) at Atlanta, Georgia
+*[[Fred White (sportscaster)|Fred White]] and [[Joe Dean]] – first round (Kansas–Houston) at Atlanta, Georgia
+*[[Fred White (sportscaster)|Fred White]] and [[Dave Gavitt]] – first round (Clemson–SW Missouri State) at Atlanta, Georgia
+*[[Bob Rathbun]] and [[Dan Bonner]] – first round (Illinois–Austin Peay, New Orleans–Brigham Young) at Birmingham, Alabama
+*[[Tom Hammond]] and [[Jim Gibbons (sports broadcaster)|Jim Gibbons]] – first round (Indiana–Fairfield, Missouri–Xavier) at Indianapolis, Indiana
+*[[Ralph Hacker]] and [[John Laskowski]] – first round (Duke–Texas A&M, Auburn–San Diego) at Indianapolis, Indiana
+*[[Mick Hubert]] and [[Gary Thompson (basketball player)|Gary Thompson]] – first round (Temple–Southern, DePaul–Louisiana Tech) at Rosemont, Illinois
+*[[Wayne Larrivee]] and [[Bob Ortegel]] – first round (St. John's–Wichita State, Georgia Tech–LSU) at Rosemont, Illinois
+*Frank Fallon and [[Lynn Shackelford]] – first round (UNLV–Idaho State) at Salt Lake City, Utah
+*[[Bob Carpenter (sportscaster)|Bob Carpenter]] and [[Irv Brown]] – first round (UCLA–Central Michigan, Georgia–Kansas State) at Salt Lake City, Utah
+*Pete Solomon and Bruce Larson – first round (Iowa–Santa Clara) at Tucson, Arizona
+*[[Ted Robinson (sportscaster)|Ted Robinson]] and [[Dan Belluomini]] – first round (Pittsburgh–Marist, UTEP–Arizona) at Tucson, Arizona
+
+==See also==
+* [[1987 NCAA Division II men's basketball tournament]]
+* [[1987 NCAA Division III men's basketball tournament]]
+* [[1987 NCAA Division I women's basketball tournament]]
+* [[NCAA Division II women's basketball tournament|1987 NCAA Division II women's basketball tournament]]
+* [[NCAA Division III women's basketball tournament|1987 NCAA Division III women's basketball tournament]]
+* [[1987 National Invitation Tournament]]
+* [[National Women's Invitation Tournament|1987 National Women's Invitation Tournament]]
+* [[1987 NAIA Division I men's basketball tournament]]
+* [[NAIA Women's Basketball Championships|1987 NAIA Division I women's basketball tournament]]
+
+==References==
+{{Reflist}}
+
+{{NCAA Division I men's basketball tournament navbox}}
+{{1987 NCAA Division I men's basketball tournament navbox}}
+{{1987 Indiana Hoosiers men's basketball navbox}}
+{{1986–87 NCAA Division I championships navbox}}
+
+{{DEFAULTSORT:1987 NCAA Division I men's basketball tournament}}
+[[Category:NCAA Division I men's basketball tournament]]
+[[Category:1986–87 NCAA Division I men's basketball season|Ncaa]]
+[[Category:Basketball competitions in New Orleans]]
+[[Category:March 1987 sports events in the United States|NCAA Division I men's basketball tournament]]
+[[Category:1987 in sports in Louisiana|NCAA Division I men's basketball tournament]]
+[[Category:1980s in New Orleans]]
+[[Category:College basketball tournaments in Louisiana]]

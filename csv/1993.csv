@@ -1,0 +1,64 @@
+year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team_name,losing_team_seed,losing_team_score
+1993,64,North Carolina,1,85,East Carolina,16,65
+1993,64,Rhode Island,8,74,Purdue,9,68
+1993,64,St. John's,5,85,Texas Tech,12,67
+1993,64,Arkansas,4,94,Holy Cross,13,64
+1993,64,Virginia,6,78,Manhattan,11,66
+1993,64,Massachusetts,3,54,Pennsylvania,14,50
+1993,64,New Mexico State,7,93,Nebraska,10,79
+1993,64,Cincinnati,2,93,Coppin State,15,66
+1993,32,North Carolina,1,112,Rhode Island,8,67
+1993,32,Arkansas,4,80,St. John's,5,74
+1993,32,Virginia,6,71,Massachusetts,3,56
+1993,32,Cincinnati,2,92,New Mexico State,7,55
+1993,16,North Carolina,1,80,Arkansas,4,74
+1993,16,Cincinnati,2,71,Virginia,6,54
+1993,8,North Carolina,1,75,Cincinnati,2,68
+1993,64,Indiana,1,97,Wright State,16,54
+1993,64,Xavier,9,73,New Orleans,8,55
+1993,64,Oklahoma State,5,74,Marquette,12,62
+1993,64,Louisville,4,76,Delaware,13,70
+1993,64,California,6,66,LSU,11,64
+1993,64,Duke,3,105,Southern Illinois,14,70
+1993,64,BYU,7,80,SMU,10,71
+1993,64,Kansas,2,94,Ball State,15,72
+1993,32,Indiana,1,73,Xavier,9,70
+1993,32,Louisville,4,78,Oklahoma State,5,63
+1993,32,California,6,82,Duke,3,77
+1993,32,Kansas,2,90,BYU,7,76
+1993,16,Indiana,1,82,Louisville,4,69
+1993,16,Kansas,2,93,California,6,76
+1993,8,Kansas,2,83,Indiana,1,77
+1993,64,Kentucky,1,96,Rider,16,52
+1993,64,Utah,8,86,Pittsburgh,9,65
+1993,64,Wake Forest,5,81,Chattanooga,12,58
+1993,64,Iowa,4,82,Northeast Louisiana,13,69
+1993,64,Tulane,11,55,Kansas State,6,53
+1993,64,Florida State,3,82,Evansville,14,70
+1993,64,Western Kentucky,7,55,Memphis State,10,52
+1993,64,Seton Hall,2,81,Tennessee State,15,59
+1993,32,Kentucky,1,83,Utah,8,62
+1993,32,Wake Forest,5,84,Iowa,4,78
+1993,32,Florida State,3,94,Tulane,11,63
+1993,32,Western Kentucky,7,72,Seton Hall,2,68
+1993,16,Kentucky,1,103,Wake Forest,5,69
+1993,16,Florida State,3,81,Western Kentucky,7,78
+1993,8,Kentucky,1,106,Florida State,3,81
+1993,64,,1,84,Coastal Carolina,16,53
+1993,64,UCLA,9,81,Iowa State,8,70
+1993,64,George Washington,12,82,New Mexico,5,68
+1993,64,Southern,13,93,Georgia Tech,4,78
+1993,64,Illinois,6,75,Long Beach State,11,72
+1993,64,Vanderbilt,3,92,Boise State,14,72
+1993,64,Temple,7,75,Missouri,10,61
+1993,64,Santa Clara,15,64,Arizona,2,61
+1993,32,,1,86,UCLA,9,84
+1993,32,George Washington,12,90,Southern,13,80
+1993,32,Vanderbilt,3,85,Illinois,6,68
+1993,32,Temple,7,68,Santa Clara,15,57
+1993,16,,1,72,George Washington,12,64
+1993,16,Temple,7,67,Vanderbilt,3,59
+1993,8,,1,77,Temple,7,72
+1993,4,North Carolina,1,78,Kansas,2,68
+1993,4,,1,81,Kentucky,1,78
+1993,2,North Carolina,1,77,,1,71

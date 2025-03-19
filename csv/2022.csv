@@ -1,0 +1,64 @@
+year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team_name,losing_team_seed,losing_team_score
+2022,64,Gonzaga,1,93,Georgia State,16,72
+2022,64,Memphis,9,64,Boise State,8,53
+2022,64,New Mexico State,12,70,UConn,5,63
+2022,64,Arkansas,4,75,Vermont,13,71
+2022,64,Notre Dame,11,78,Alabama,6,64
+2022,64,Texas Tech,3,97,Montana State,14,62
+2022,64,Michigan State,7,74,Davidson,10,73
+2022,64,Duke,2,78,Cal State Fullerton,15,61
+2022,32,Gonzaga,1,82,Memphis,9,78
+2022,32,Arkansas,4,53,New Mexico State,12,48
+2022,32,Texas Tech,3,59,Notre Dame,11,53
+2022,32,Duke,2,85,Michigan State,7,76
+2022,16,Arkansas,4,74,Gonzaga,1,68
+2022,16,Duke,2,78,Texas Tech,3,73
+2022,8,Duke,2,78,Arkansas,4,69
+2022,64,Baylor,1,85,Norfolk State,16,49
+2022,64,North Carolina,8,95,Marquette,9,63
+2022,64,Saint Mary's,5,82,Indiana,12,53
+2022,64,UCLA,4,57,Akron,13,53
+2022,64,Texas,6,81,Virginia Tech,11,73
+2022,64,Purdue,3,78,Yale,14,56
+2022,64,Murray State,7,92,San Francisco,10,87
+2022,64,Saint Peter's,15,85,Kentucky,2,79
+2022,32,North Carolina,8,93,Baylor,1,86
+2022,32,UCLA,4,72,Saint Mary's,5,56
+2022,32,Purdue,3,81,Texas,6,71
+2022,32,Saint Peter's,15,70,Murray State,7,60
+2022,16,North Carolina,8,73,UCLA,4,66
+2022,16,Saint Peter's,15,67,Purdue,3,64
+2022,8,North Carolina,8,69,Saint Peter's,15,49
+2022,64,Arizona,1,87,Wright State,16,70
+2022,64,TCU,9,69,Seton Hall,8,42
+2022,64,Houston,5,82,UAB,12,68
+2022,64,Illinois,4,54,Chattanooga,13,53
+2022,64,Michigan,11,75,Colorado State,6,63
+2022,64,Tennessee,3,88,Longwood,14,56
+2022,64,Ohio State,7,54,Loyola Chicago,10,41
+2022,64,Villanova,2,80,Delaware,15,60
+2022,32,Arizona,1,85,TCU,9,80
+2022,32,Houston,5,68,Illinois,4,53
+2022,32,Michigan,11,76,Tennessee,3,68
+2022,32,Villanova,2,71,Ohio State,7,61
+2022,16,Houston,5,72,Arizona,1,60
+2022,16,Villanova,2,63,Michigan,11,55
+2022,8,Villanova,2,50,Houston,5,44
+2022,64,Kansas,1,83,Texas Southern,16,56
+2022,64,Creighton,9,72,San Diego State,8,69
+2022,64,Richmond,12,67,Iowa,5,63
+2022,64,Providence,4,66,South Dakota State,13,57
+2022,64,Iowa State,11,59,LSU,6,54
+2022,64,Wisconsin,3,67,Colgate,14,60
+2022,64,Miami (FL),10,68,USC,7,66
+2022,64,Auburn,2,80,Jacksonville State,15,61
+2022,32,Kansas,1,79,Creighton,9,72
+2022,32,Providence,4,79,Richmond,12,51
+2022,32,Iowa State,11,54,Wisconsin,3,49
+2022,32,Miami (FL),10,79,Auburn,2,61
+2022,16,Kansas,1,66,Providence,4,61
+2022,16,Miami (FL),10,70,Iowa State,11,56
+2022,8,Kansas,1,76,Miami (FL),10,50
+2022,4,North Carolina,8,81,Duke,2,77
+2022,4,Kansas,1,81,Villanova,2,65
+2022,2,Kansas,1,72,North Carolina,8,69

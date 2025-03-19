@@ -1,0 +1,64 @@
+year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team_name,losing_team_seed,losing_team_score
+2003,64,Oklahoma,1,71,South Carolina State,16,54
+2003,64,California,8,76,NC State,9,74
+2003,64,Butler,12,47,Mississippi St,5,46
+2003,64,Louisville,4,86,Austin Peay,13,64
+2003,64,Oklahoma State,6,77,Pennsylvania,11,63
+2003,64,Syracuse,3,76,Manhattan,14,65
+2003,64,Auburn,10,65,Saint Joseph's,7,63
+2003,64,Wake Forest,2,76,East Tennessee State,15,73
+2003,32,Oklahoma,1,74,California,8,65
+2003,32,Butler,12,79,Louisville,4,71
+2003,32,Syracuse,3,68,Oklahoma State,6,56
+2003,32,Auburn,10,68,Wake Forest,2,62
+2003,16,Oklahoma,1,65,Butler,12,54
+2003,16,Syracuse,3,79,Auburn,10,78
+2003,8,Syracuse,3,63,Oklahoma,1,47
+2003,64,Texas,1,82,UNC Asheville,16,61
+2003,64,Purdue,9,80,LSU,8,56
+2003,64,Connecticut,5,58,BYU,12,53
+2003,64,Stanford,4,77,San Diego,13,69
+2003,64,Maryland,6,75,UNC Wilmington,11,73
+2003,64,Xavier,3,71,Troy State,14,59
+2003,64,Michigan State,7,79,Colorado,10,64
+2003,64,Florida,2,85,Sam Houston State,15,55
+2003,32,Texas,1,77,Purdue,9,67
+2003,32,Connecticut,5,85,Stanford,4,74
+2003,32,Maryland,6,77,Xavier,3,64
+2003,32,Michigan State,7,68,Florida,2,46
+2003,16,Texas,1,82,Connecticut,5,78
+2003,16,Michigan State,7,60,Maryland,6,58
+2003,8,Texas,1,85,Michigan State,7,76
+2003,64,Kentucky,1,95,IUPUI,16,64
+2003,64,Utah,9,60,Oregon,8,58
+2003,64,Wisconsin,5,81,Weber State,12,74
+2003,64,Tulsa,13,84,Dayton,4,71
+2003,64,Missouri,6,72,Southern Illinois,11,71
+2003,64,Marquette,3,72,Holy Cross,14,68
+2003,64,Indiana,7,67,Alabama,10,62
+2003,64,Pittsburgh,2,87,Wagner,15,61
+2003,32,Kentucky,1,74,Utah,9,54
+2003,32,Wisconsin,5,61,Tulsa,13,60
+2003,32,Marquette,3,101,Missouri,6,92
+2003,32,Pittsburgh,2,74,Indiana,7,52
+2003,16,Kentucky,1,63,Wisconsin,5,57
+2003,16,Marquette,3,77,Pittsburgh,2,74
+2003,8,Marquette,3,83,Kentucky,1,69
+2003,64,Arizona,1,80,Vermont,16,51
+2003,64,Gonzaga,9,74,Cincinnati,8,69
+2003,64,Notre Dame,5,70,Milwaukee,12,69
+2003,64,Illinois,4,65,Western Kentucky,13,60
+2003,64,Central Michigan,11,79,Creighton,6,73
+2003,64,Duke,3,67,Colorado State,14,57
+2003,64,Arizona State,10,84,Memphis,7,71
+2003,64,Kansas,2,64,Utah State,15,61
+2003,32,Arizona,1,96,Gonzaga,9,95
+2003,32,Notre Dame,5,68,Illinois,4,60
+2003,32,Duke,3,68,Central Michigan,11,60
+2003,32,Kansas,2,108,Arizona State,10,76
+2003,16,Arizona,1,88,Notre Dame,5,71
+2003,16,Kansas,2,69,Duke,3,65
+2003,8,Kansas,2,78,Arizona,1,75
+2003,4,Syracuse,3,95,Texas,1,84
+2003,4,Kansas,2,94,Marquette,3,61
+2003,2,Syracuse,3,81,Kansas,2,78

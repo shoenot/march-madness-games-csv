@@ -1,0 +1,64 @@
+year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team_name,losing_team_seed,losing_team_score
+1986,64,Duke,1,85,Mississippi Valley State,16,78
+1986,64,Old Dominion,8,72,West Virginia,9,64
+1986,64,DePaul,12,72,Virginia,5,68
+1986,64,Oklahoma,4,80,Northeastern,13,74
+1986,64,Saint Joseph's,6,60,Richmond,11,59
+1986,64,Cleveland State,14,83,Indiana,3,79
+1986,64,Navy,7,87,Tulsa,10,68
+1986,64,Syracuse,2,101,Brown,15,52
+1986,32,Duke,1,89,Old Dominion,8,61
+1986,32,DePaul,12,74,Oklahoma,4,69
+1986,32,Cleveland State,14,75,Saint Joseph's,6,69
+1986,32,Navy,7,97,Syracuse,2,85
+1986,16,Duke,1,74,DePaul,12,67
+1986,16,Navy,7,71,Cleveland State,14,70
+1986,8,Duke,1,71,Navy,7,50
+1986,64,Kansas,1,71,North Carolina A&T,16,46
+1986,64,Temple,9,61,Jacksonville,8,50
+1986,64,Michigan State,5,72,Washington,12,70
+1986,64,Georgetown,4,70,Texas Tech,13,64
+1986,64,NC State,6,66,Iowa,11,64
+1986,64,Arkansas–Little Rock,14,90,Notre Dame,3,83
+1986,64,Iowa State,7,81,Miami (OH),10,79
+1986,64,Michigan,2,70,Akron,15,64
+1986,32,Kansas,1,65,Temple,9,43
+1986,32,Michigan State,5,80,Georgetown,4,68
+1986,32,NC State,6,80,Arkansas–Little Rock,14,66
+1986,32,Iowa State,7,72,Michigan,2,69
+1986,16,Kansas,1,96,Michigan State,5,86
+1986,16,NC State,6,70,Iowa State,7,66
+1986,8,Kansas,1,75,NC State,6,67
+1986,64,Kentucky,1,75,Davidson,16,55
+1986,64,Western Kentucky,8,67,Nebraska,9,59
+1986,64,Alabama,5,97,Xavier,12,80
+1986,64,Illinois,4,75,Fairfield,13,51
+1986,64,LSU,11,94,Purdue,6,87
+1986,64,,3,95,Ball State,14,63
+1986,64,Villanova,10,71,Virginia Tech,7,62
+1986,64,Georgia Tech,2,68,Marist,15,53
+1986,32,Kentucky,1,71,Western Kentucky,8,64
+1986,32,Alabama,5,58,Illinois,4,56
+1986,32,LSU,11,83,,3,81
+1986,32,Georgia Tech,2,66,Villanova,10,61
+1986,16,Kentucky,1,68,Alabama,5,63
+1986,16,LSU,11,70,Georgia Tech,2,64
+1986,8,LSU,11,59,Kentucky,1,57
+1986,64,St. John's,1,83,Montana State,16,74
+1986,64,Auburn,8,73,Arizona,9,63
+1986,64,Maryland,5,69,Pepperdine,12,64
+1986,64,UNLV,4,74,Northeast Louisiana,13,51
+1986,64,UAB,6,66,Missouri,11,64
+1986,64,North Carolina,3,84,Utah,14,72
+1986,64,Bradley,7,83,UTEP,10,65
+1986,64,Louisville,2,93,Drexel,15,73
+1986,32,Auburn,8,81,St. John's,1,65
+1986,32,UNLV,4,70,Maryland,5,64
+1986,32,North Carolina,3,77,UAB,6,59
+1986,32,Louisville,2,82,Bradley,7,68
+1986,16,Auburn,8,70,UNLV,4,63
+1986,16,Louisville,2,94,North Carolina,3,79
+1986,8,Louisville,2,84,Auburn,8,76
+1986,4,Duke,1,71,Kansas,1,67
+1986,4,Louisville,2,88,LSU,11,77
+1986,2,Louisville,2,72,Duke,1,69

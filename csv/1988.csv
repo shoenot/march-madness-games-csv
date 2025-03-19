@@ -1,0 +1,64 @@
+year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team_name,losing_team_seed,losing_team_score
+1988,64,Temple,1,87,Lehigh,16,73
+1988,64,Georgetown,8,66,LSU,9,63
+1988,64,Georgia Tech,5,90,Iowa State,12,78
+1988,64,Richmond,13,72,Indiana,4,69
+1988,64,Rhode Island,11,87,Missouri,6,80
+1988,64,Syracuse,3,69,North Carolina A&T,14,55
+1988,64,SMU,7,83,Notre Dame,10,75
+1988,64,Duke,2,85,Boston University,15,69
+1988,32,Temple,1,74,Georgetown,8,53
+1988,32,Richmond,13,59,Georgia Tech,5,55
+1988,32,Rhode Island,11,97,Syracuse,3,94
+1988,32,Duke,2,94,SMU,7,79
+1988,16,Temple,1,69,Richmond,13,47
+1988,16,Duke,2,73,Rhode Island,11,72
+1988,8,Duke,2,63,Temple,1,53
+1988,64,Purdue,1,94,Fairleigh Dickinson,16,79
+1988,64,Memphis,9,75,Baylor,8,60
+1988,64,DePaul,5,83,Wichita State,12,62
+1988,64,Kansas State,4,66,La Salle,13,53
+1988,64,Kansas,6,85,Xavier,11,72
+1988,64,Murray State,14,78,NC State,3,75
+1988,64,Vanderbilt,7,80,Utah State,10,77
+1988,64,Pittsburgh,2,108,Eastern Michigan,15,90
+1988,32,Purdue,1,100,Memphis,9,73
+1988,32,Kansas State,4,66,DePaul,5,58
+1988,32,Kansas,6,61,Murray State,14,58
+1988,32,Vanderbilt,7,80,Pittsburgh,2,74
+1988,16,Kansas State,4,73,Purdue,1,70
+1988,16,Kansas,6,77,Vanderbilt,7,64
+1988,8,Kansas,6,71,Kansas State,4,58
+1988,64,Oklahoma,1,94,Chattanooga,16,66
+1988,64,Auburn,8,90,Bradley,9,86
+1988,64,Louisville,5,70,Oregon State,12,61
+1988,64,BYU,4,98,Charlotte,13,92
+1988,64,Villanova,6,82,Arkansas,11,74
+1988,64,Illinois,3,81,UTSA,14,72
+1988,64,,7,92,UC Santa Barbara,10,82
+1988,64,,2,99,Southern,15,84
+1988,32,Oklahoma,1,107,Auburn,8,87
+1988,32,Louisville,5,97,BYU,4,76
+1988,32,Villanova,6,66,Illinois,3,63
+1988,32,,2,90,,7,81
+1988,16,Oklahoma,1,108,Louisville,5,98
+1988,16,Villanova,6,80,,2,74
+1988,8,Oklahoma,1,78,Villanova,6,59
+1988,64,Arizona,1,90,Cornell,16,50
+1988,64,Seton Hall,8,80,UTEP,9,64
+1988,64,Iowa,5,102,Florida State,12,98
+1988,64,UNLV,4,54,Southwest Missouri State,13,50
+1988,64,Florida,6,62,St. John's,11,59
+1988,64,Michigan,3,63,Boise State,14,58
+1988,64,Loyola Marymount,10,119,Wyoming,7,115
+1988,64,North Carolina,2,83,North Texas State,15,65
+1988,32,Arizona,1,84,Seton Hall,8,55
+1988,32,Iowa,5,104,UNLV,4,86
+1988,32,Michigan,3,108,Florida,6,85
+1988,32,North Carolina,2,123,Loyola Marymount,10,97
+1988,16,Arizona,1,99,Iowa,5,79
+1988,16,North Carolina,2,78,Michigan,3,69
+1988,8,Arizona,1,70,North Carolina,2,52
+1988,4,Kansas,6,66,Duke,2,59
+1988,4,Oklahoma,1,86,Arizona,1,78
+1988,2,Kansas,6,83,Oklahoma,1,79

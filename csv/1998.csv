@@ -1,0 +1,64 @@
+year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team_name,losing_team_seed,losing_team_score
+1998,64,North Carolina,1,88,Navy,16,52
+1998,64,Charlotte,8,77,UIC,9,62
+1998,64,Princeton,5,69,UNLV,12,57
+1998,64,Michigan State,4,83,Eastern Michigan,13,71
+1998,64,Washington,11,69,Xavier,6,68
+1998,64,Richmond,14,62,South Carolina,3,61
+1998,64,Indiana,7,94,Oklahoma,10,87
+1998,64,Connecticut,2,93,Fairleigh Dickinson,15,85
+1998,32,North Carolina,1,93,Charlotte,8,83
+1998,32,Michigan State,4,63,Princeton,5,56
+1998,32,Washington,11,81,Richmond,14,66
+1998,32,Connecticut,2,78,Indiana,7,68
+1998,16,North Carolina,1,73,Michigan State,4,58
+1998,16,Connecticut,2,75,Washington,11,74
+1998,8,North Carolina,1,75,Connecticut,2,64
+1998,64,Arizona,1,99,Nicholls State,16,60
+1998,64,Illinois State,9,82,Tennessee,8,81
+1998,64,Illinois,5,64,South Alabama,12,51
+1998,64,Maryland,4,82,Utah State,13,68
+1998,64,Arkansas,6,74,Nebraska,11,65
+1998,64,Utah,3,85,San Francisco,14,68
+1998,64,West Virginia,10,82,Temple,7,52
+1998,64,Cincinnati,2,65,Northern Arizona,15,62
+1998,32,Arizona,1,82,Illinois State,9,49
+1998,32,Maryland,4,67,Illinois,5,61
+1998,32,Utah,3,75,Arkansas,6,69
+1998,32,West Virginia,10,75,Cincinnati,2,74
+1998,16,Arizona,1,87,Maryland,4,79
+1998,16,Utah,3,65,West Virginia,10,62
+1998,8,Utah,3,76,Arizona,1,51
+1998,64,Duke,1,99,Radford,16,63
+1998,64,Oklahoma State,8,74,George Washington,9,59
+1998,64,Syracuse,5,63,Iona,12,61
+1998,64,New Mexico,4,79,Butler,13,62
+1998,64,UCLA,6,65,Miami (FL),11,62
+1998,64,,3,80,Davidson,14,61
+1998,64,Saint Louis,10,51,Massachusetts,7,46
+1998,64,Kentucky,2,82,South Carolina State,15,67
+1998,32,Duke,1,79,Oklahoma State,8,73
+1998,32,Syracuse,5,56,New Mexico,4,46
+1998,32,UCLA,6,85,,3,82
+1998,32,Kentucky,2,88,Saint Louis,10,61
+1998,16,Duke,1,80,Syracuse,5,67
+1998,16,Kentucky,2,94,UCLA,6,68
+1998,8,Kentucky,2,86,Duke,1,84
+1998,64,Kansas,1,110,Prairie View A&M,16,52
+1998,64,Rhode Island,8,97,Murray State,9,74
+1998,64,Florida State,12,96,TCU,5,87
+1998,64,Valparaiso,13,70,Ole Miss,4,69
+1998,64,Western Michigan,11,75,Clemson,6,72
+1998,64,Stanford,3,67,College of Charleston,14,57
+1998,64,Detroit,10,66,St. John's,7,64
+1998,64,Purdue,2,95,Delaware,15,56
+1998,32,Rhode Island,8,80,Kansas,1,75
+1998,32,Valparaiso,13,83,Florida State,12,77
+1998,32,Stanford,3,83,Western Michigan,11,65
+1998,32,Purdue,2,80,Detroit,10,65
+1998,16,Rhode Island,8,74,Valparaiso,13,68
+1998,16,Stanford,3,67,Purdue,2,59
+1998,8,Stanford,3,79,Rhode Island,8,77
+1998,4,Utah,3,65,North Carolina,1,59
+1998,4,Kentucky,2,86,Stanford,3,85
+1998,2,Kentucky,2,78,Utah,3,69

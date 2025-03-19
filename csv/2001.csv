@@ -1,0 +1,64 @@
+year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team_name,losing_team_seed,losing_team_score
+2001,64,Duke,1,95,Monmouth,16,52
+2001,64,Missouri,9,70,Georgia,8,68
+2001,64,Utah State,12,77,,5,68
+2001,64,UCLA,4,61,Hofstra,13,48
+2001,64,USC,6,69,Oklahoma State,11,54
+2001,64,Boston College,3,68,Southern Utah,14,65
+2001,64,Iowa,7,69,Creighton,10,56
+2001,64,Kentucky,2,72,Holy Cross,15,68
+2001,32,Duke,1,94,Missouri,9,81
+2001,32,UCLA,4,75,Utah State,12,50
+2001,32,USC,6,74,Boston College,3,71
+2001,32,Kentucky,2,92,Iowa,7,79
+2001,16,Duke,1,76,UCLA,4,63
+2001,16,USC,6,80,Kentucky,2,76
+2001,8,Duke,1,79,USC,6,69
+2001,64,Stanford,1,88,UNC-Greensboro,16,60
+2001,64,Saint Joseph's,9,66,Georgia Tech,8,62
+2001,64,Cincinnati,5,84,BYU,12,59
+2001,64,Kent State,13,77,Indiana,4,73
+2001,64,Georgia State,11,50,Wisconsin,6,49
+2001,64,Maryland,3,83,George Mason,14,80
+2001,64,Georgetown,10,63,Arkansas,7,61
+2001,64,Hampton,15,58,Iowa State,2,57
+2001,32,Stanford,1,90,Saint Joseph's,9,83
+2001,32,Cincinnati,5,66,Kent State,13,43
+2001,32,Maryland,3,79,Georgia State,11,60
+2001,32,Georgetown,10,76,Hampton,15,57
+2001,16,Stanford,1,78,Cincinnati,5,65
+2001,16,Maryland,3,76,Georgetown,10,66
+2001,8,Maryland,3,87,Stanford,1,73
+2001,64,Michigan State,1,69,Alabama State,16,35
+2001,64,Fresno State,9,82,California,8,70
+2001,64,Gonzaga,12,86,Virginia,5,85
+2001,64,Indiana State,13,70,Oklahoma,4,68
+2001,64,Temple,11,79,Texas,6,65
+2001,64,Florida,3,69,Western Kentucky,14,56
+2001,64,Penn State,7,69,Providence,10,59
+2001,64,North Carolina,2,70,Princeton,15,48
+2001,32,Michigan State,1,81,Fresno State,9,65
+2001,32,Gonzaga,12,85,Indiana State,13,68
+2001,32,Temple,11,75,Florida,3,54
+2001,32,Penn State,7,82,North Carolina,2,74
+2001,16,Michigan State,1,77,Gonzaga,12,62
+2001,16,Temple,11,84,Penn State,7,72
+2001,8,Michigan State,1,69,Temple,11,62
+2001,64,Illinois,1,96,Northwestern State,16,54
+2001,64,Charlotte,9,70,Tennessee,8,63
+2001,64,Syracuse,5,79,Hawaii,12,69
+2001,64,Kansas,4,99,Cal State Northridge,13,75
+2001,64,Notre Dame,6,83,Xavier,11,71
+2001,64,Ole Miss,3,72,Iona,14,70
+2001,64,Butler,10,79,Wake Forest,7,63
+2001,64,Arizona,2,101,Eastern Illinois,15,76
+2001,32,Illinois,1,79,Charlotte,9,61
+2001,32,Kansas,4,87,Syracuse,5,58
+2001,32,Ole Miss,3,59,Notre Dame,6,56
+2001,32,Arizona,2,73,Butler,10,52
+2001,16,Illinois,1,80,Kansas,4,64
+2001,16,Arizona,2,66,Ole Miss,3,56
+2001,8,Arizona,2,87,Illinois,1,81
+2001,4,Duke,1,95,Maryland,3,84
+2001,4,Arizona,2,80,Michigan State,1,61
+2001,2,Duke,1,82,Arizona,2,72

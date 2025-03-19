@@ -1,0 +1,768 @@
+{{Short description|Edition of USA college basketball tournament}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox NCAA basketball tournament
+| Year=1988
+| Image=1988 Final Four logo.png
+| ImageSize=
+| Caption=
+| Teams=64
+| FinalFourArena=[[Hy-Vee Arena|Kemper Arena]]
+| FinalFourCity=[[Kansas City, Missouri]]
+| Champions=[[1987–88 Kansas Jayhawks men's basketball team|Kansas Jayhawks]]
+| TitleCount=2nd
+| ChampGameCount=5th
+| ChampFFCount=8th
+| RunnerUp=[[1987–88 Oklahoma Sooners men's basketball team|Oklahoma Sooners]]
+| GameCount=2nd
+| RunnerFFCount=3rd
+| Semifinal1=[[1987–88 Arizona Wildcats men's basketball team|Arizona Wildcats]]
+| FinalFourCount=1st
+| Semifinal2=[[1987–88 Duke Blue Devils men's basketball team|Duke Blue Devils]]
+| FinalFourCount2=6th
+| Coach=[[Larry Brown (basketball)|Larry Brown]]
+| CoachCount=1st
+| MOP=[[Danny Manning]]
+| MOPTeam=Kansas
+| Attendance=558,998
+| TopScorer=Danny Manning
+| TopScorerTeam=Kansas
+| Points=163
+}}
+
+The '''1988 [[NCAA Division I men's basketball tournament]]''' involved 64 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]]. The 50th annual edition of the tournament began on March 17, 1988, and ended with the [[1988 NCAA Division I Men's Basketball Championship Game|championship game]] on April 4 returning to [[Kansas City]] for the 10th time. A total of 63 games were played.
+
+[[1987–88 Kansas Jayhawks men's basketball team|Kansas]], coached by [[Larry Brown (basketball)|Larry Brown]], won the national title with an 83–79 victory in the final game over [[Big Eight Conference]] rival [[1987–88 Oklahoma Sooners men's basketball team|Oklahoma]], coached by [[Billy Tubbs]]. As of 2024, this was the last national championship game to feature two schools from the same conference.  [[Danny Manning]] of Kansas was named the tournament's [[NCAA basketball tournament Most Outstanding Player|Most Outstanding Player]]. Even though the Final Four was contested {{Convert|40|mi|km|abbr=out}} from its campus in [[Lawrence, Kansas]], Kansas was considered a long shot against the top rated Sooners because Oklahoma had previously defeated the Jayhawks twice by 8 points that season—at home in Norman, Oklahoma and on the road in Kansas' Allen Fieldhouse. Kansas's upset was the third biggest point-spread upset in Championship Game history.  After this upset, the 1988 Kansas team was remembered as "Danny and the Miracles."
+
+This was the first NCAA Tournament which barred teams from playing on their home courts, or in any facility in which it played four or more regular season games. The NCAA Division I Men's Basketball Committee made this change after each of the previous two Final Fours featured a team which played its first and second-round games at home: [[1985–86 LSU Tigers basketball team|LSU]] in [[1986 NCAA Division I men's basketball tournament|1986]] (as a No. 11 seed) and [[1986–87 Syracuse Orangemen basketball team|Syracuse]] in [[1987 NCAA Division I men's basketball tournament|1987]].
+
+The team which was arguably hurt the most by the change was [[1987–88 North Carolina Tar Heels men's basketball team|North Carolina]], whose [[Dean Smith Center]] hosted for the first (and as of 2023, only) time. The Tar Heels were a No. 2 seed, but with the hosting ban now in effect, they were shipped to the West, where they were routed in the regional final by top seed Arizona. [[Carolina–Duke rivalry|Archrival]] [[1987–88 Duke Blue Devils men's basketball team|Duke]] was the No. 2 seed in the East and won its first two games at [[Chapel Hill, North Carolina|Chapel Hill]] on its way to the Final Four.
+
+[[Arizona Wildcats men's basketball|Arizona]], now known as a prominent basketball powerhouse, made their debut in [[1987–88 Arizona Wildcats men's basketball team|this year]]'s Final Four, marking the 80th different school (including official NCAA vacations; 78th otherwise) to do so. This is notable because Arizona's Final Four appearance was the first by a new school since the [[1983 NCAA Division I men's basketball tournament|1983 tournament]], the longest gap at that point.
+
+==Schedule and venues==
+{{Location map+|USA|width=450|float=right|caption=1988 first and second rounds|places=
+{{Location map~|USA|mark=green pog.svg|lat_deg=33.748995|lon_deg=-84.387982|position=bottom|background=#FFFFFF|label=Atlanta|link=Omni Coliseum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=41.676355|lon_deg=-86.251990|position=bottom|background=#FFFFFF|label=South Bend|link=Edmund P. Joyce Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.103118|lon_deg=-84.512020|position=bottom|background=#FFFFFF|label=Cincinnati|link=US Bank Arena|2=Riverfront Coliseum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=41.763711|lon_deg=-72.685093|position=top|background=#FFFFFF|label=Hartford|link=XL Center|2=Hartford Civic Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=40.810556|lon_deg=-96.680278|position=bottom|background=#FFFFFF|label=Lincoln|link=Bob Devaney Sports Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=35.913200|lon_deg=-79.055845|position=right|background=#FFFFFF|label=Chapel Hill|link=Dean Smith Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=33.770050|lon_deg=-118.193739|position=bottom|background=#FFFFFF|label=Los Angeles|link=Pauley Pavilion}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=40.760779|lon_deg=-111.891047|position=top|background=#FFFFFF|label=Salt Lake City|link=Jon M. Huntsman Center}}
+}}
+
+{{Location map+|USA|width=450|float=right|caption=1988 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=47.606209|lon_deg=-122.332071|position=right|background=#FFFFFF|label=Seattle|link=Kingdome}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=42.638922|lon_deg=-83.291047|position=right|background=#FFFFFF|label=Pontiac|link=Pontiac Silverdome}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=33.520661|lon_deg=-86.802490|position=bottom|background=#FFFFFF|label=Birmingham|link=Birmingham–Jefferson Convention Complex|2=BJCC Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=40.833989|lon_deg=-74.097086|position=bottom|background=#FFFFFF|label=E. Rutherford|link=Izod Center|2=Meadowlands Arena}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=39.099727|lon_deg=-94.578567|position=bottom|background=#FFFFFF|label=Kansas City|link=Hy-Vee Arena|2=Kemper Arena}}
+}}
+
+The following are the sites that were selected to host each round of the 1988 tournament:
+
+'''First and Second Rounds'''
+*March 17 and 19
+**'''East Region'''
+*** [[Dean Smith Center]], [[Chapel Hill, North Carolina]] (Host: [[University of North Carolina at Chapel Hill]])
+**'''Midwest Region'''
+*** [[Edmund P. Joyce Center]], [[South Bend, Indiana]] (Host: [[University of Notre Dame]])
+**'''Southeast Region'''
+*** [[Omni Coliseum]], [[Atlanta|Atlanta, Georgia]] (Host: [[Georgia Tech]])
+**'''West Region'''
+*** [[Jon M. Huntsman Center]], [[Salt Lake City|Salt Lake City, Utah]] (Host: [[University of Utah]])
+*March 18 and 20
+**'''East Region'''
+*** [[XL Center|Hartford Civic Center]], [[Hartford, Connecticut]] (Host: [[University of Connecticut]])
+**'''Midwest Region'''
+*** [[Bob Devaney Sports Center]], [[Lincoln, Nebraska]] (Host: [[University of Nebraska-Lincoln]])
+**'''Southeast Region'''
+*** [[US Bank Arena|Riverfront Coliseum]], [[Cincinnati|Cincinnati, Ohio]] (Hosts: [[University of Cincinnati]], [[Xavier University]])
+**'''West Region'''
+*** [[Pauley Pavilion]], [[Los Angeles|Los Angeles, California]] (Host: [[UCLA]])
+
+'''Regional semifinals and finals''' (Sweet Sixteen and Elite Eight)
+*March 24 and 26
+**'''East Regional''', [[Brendan Byrne Arena]], [[East Rutherford, New Jersey]] (Hosts: [[Seton Hall University]], [[Big East Conference]])
+**'''Southeast Regional''', [[Legacy Arena|BJCC Coliseum]], [[Birmingham, Alabama]] (Host: [[Southeastern Conference]])
+*March 25 and 27
+**'''Midwest Regional''', [[Pontiac Silverdome]], [[Pontiac, Michigan]] (Hosts: [[University of Detroit Mercy]], [[Midwestern Collegiate Conference]])
+**'''West Regional''', [[Kingdome]], [[Seattle|Seattle, Washington]] (Host: [[University of Washington]])
+
+'''National semifinals and championship''' (Final Four and championship)
+*April 2 and 4
+**[[Hy-Vee Arena|Kemper Arena]], [[Kansas City, Missouri]] (Host: [[Big 8 Conference]])
+
+==Teams==
+[[File:1988 NCAA Men's Division I Basketball Tournament - National Semifinals (ticket).jpg|thumb|150px|A ticket from the tournament's Final Four]]
+{| class="wikitable"
+! Region !! Seed !! Team !! Coach !! Conference !! Finished !! Final opponent !! Score
+|-
+! colspan="8"| East
+|-
+| East || 1|| [[1987–88 Temple Owls men's basketball team|Temple]] || [[John Chaney (basketball coach)|John Chaney]] || Atlantic 10 || Regional Runner-up||2 [[1987–88 Duke Blue Devils men's basketball team|Duke]]||L 63–53
+|-
+| East || 2|| [[1987–88 Duke Blue Devils men's basketball team|Duke]] || [[Mike Krzyzewski]] || Atlantic Coast || National semifinals||6 [[1987–88 Kansas Jayhawks men's basketball team|Kansas]]||L 66–59
+|-
+| East || 3|| [[1987–88 Syracuse Orangemen basketball team|Syracuse]] || [[Jim Boeheim]] || Big East || Round of 32||11 [[Rhode Island Rams men's basketball|Rhode Island]]||L 97–94
+|-
+| East || 4|| [[1987–88 Indiana Hoosiers men's basketball team|Indiana]] || [[Bob Knight]] || Big Ten || Round of 64||13 [[1987–88 Richmond Spiders men's basketball team|Richmond]]||L 72–69
+|-
+| East || 5|| [[1987–88 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]] || [[Bobby Cremins]] || Atlantic Coast || Round of 32||13 [[1987–88 Richmond Spiders men's basketball team|Richmond]]||L 59–55
+|-
+| East || 6|| [[1987–88 Missouri Tigers men's basketball team|Missouri]] || [[Norm Stewart]] || Big Eight || Round of 64||11 [[Rhode Island Rams men's basketball|Rhode Island]]||L 87–80
+|-
+| East || 7|| [[1987–88 SMU Mustangs men's basketball team|SMU]] || [[Dave Bliss]] || Southwest || Round of 32||2 [[1987–88 Duke Blue Devils men's basketball team|Duke]]||L 94–79
+|-
+| East || 8|| [[1987–88 Georgetown Hoyas men's basketball team|Georgetown]] || [[John Thompson (basketball)|John Thompson]] || Big East || Round of 32||1 [[1987–88 Temple Owls men's basketball team|Temple]]||L 74–53
+|-
+| East || 9|| [[1987–88 LSU Tigers basketball team|LSU]] || [[Dale Brown (basketball)|Dale Brown]] || Southeastern || Round of 64||8 [[1987–88 Georgetown Hoyas men's basketball team|Georgetown]]||L 66–63
+|-
+| East || 10|| [[1987–88 Notre Dame Fighting Irish men's basketball team|Notre Dame]] || [[Digger Phelps]] || Independent || Round of 64||7 [[SMU Mustangs men's basketball|SMU]]||L 83–75
+|-
+| East || 11|| [[1987–88 Rhode Island Rams men's basketball team|Rhode Island]] || [[Tom Penders]] || Atlantic 10 || Sweet Sixteen||2 [[1987–88 Duke Blue Devils men's basketball team|Duke]]||L 73–72
+|-
+| East || 12|| [[1987–88 Iowa State Cyclones men's basketball team|Iowa State]] || [[Johnny Orr (basketball, born 1927)|Johnny Orr]] || Big Eight || Round of 64||5 [[1987–88 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]||L 90–78
+|-
+| East || 13|| [[1987–88 Richmond Spiders men's basketball team|Richmond]] || [[Dick Tarrant]] || Colonial || Sweet Sixteen||1 [[1987–88 Temple Owls men's basketball team|Temple]]||L 69–47
+|-
+| East || 14|| [[1987–88 North Carolina A&T Aggies men's basketball team|North Carolina A&T]] || [[Don Corbett]] || Mid-Eastern || Round of 64||3 [[1987–88 Syracuse Orangemen basketball team|Syracuse]]||L 69–55
+|-
+| East || 15|| [[1987–88 Boston University Terriers men's basketball team|Boston University]] || [[Mike Jarvis]] || ECAC North || Round of 64||2 [[1987–88 Duke Blue Devils men's basketball team|Duke]]||L 85–69
+|-
+| East || 16|| [[1987–88 Lehigh Engineers men's basketball team|Lehigh]] || [[Fran McCaffery]] || East Coast || Round of 64||1 [[1987–88 Temple Owls men's basketball team|Temple]]||L 87–73
+|-
+! colspan="8"| Midwest
+|-
+| Midwest || 1|| [[1987–88 Purdue Boilermakers men's basketball team|Purdue]] || [[Gene Keady]] || Big Ten || Sweet Sixteen||4 [[1987–88 Kansas State Wildcats men's basketball team|Kansas State]]||L 73–70
+|-
+| Midwest || 2|| [[1987–88 Pittsburgh Panthers men's basketball team|Pittsburgh]] || [[Paul Evans (basketball coach)|Paul Evans]] || Big East || Round of 32||7 [[1987–88 Vanderbilt Commodores men's basketball team|Vanderbilt]]||L 80–74
+|-
+| Midwest || 3|| [[1987–88 NC State Wolfpack men's basketball team|NC State]] || [[Jim Valvano]] || Atlantic Coast || Round of 64||14 [[1987–88 Murray State Racers men's basketball team|Murray State]]||L 78–75
+|-
+| Midwest || 4|| [[1987–88 Kansas State Wildcats men's basketball team|Kansas State]] || [[Lon Kruger]] || Big Eight || Regional Runner-up||6 [[1987–88 Kansas Jayhawks men's basketball team|Kansas]]||L 71–58
+|-
+| Midwest || 5|| [[1987–88 DePaul Blue Demons men's basketball team|DePaul]] || [[Joey Meyer (basketball)|Joey Meyer]] || Independent || Round of 32||4 [[1987–88 Kansas State Wildcats men's basketball team|Kansas State]]||L 66–58
+|-
+| Midwest || 6|| [[1987–88 Kansas Jayhawks men's basketball team|Kansas]] || [[Larry Brown (basketball)|Larry Brown]] || Big Eight || '''Champion'''||1 [[1987–88 Oklahoma Sooners men's basketball team|Oklahoma]]||W 83–79
+|-
+| Midwest || 7|| [[1987–88 Vanderbilt Commodores men's basketball team|Vanderbilt]] || [[C. M. Newton]] || Southeastern || Sweet Sixteen||6 [[1987–88 Kansas Jayhawks men's basketball team|Kansas]]||L 77–64
+|-
+| Midwest || 8|| [[1987–88 Baylor Bears basketball team|Baylor]] || [[Gene Iba]] || Southwest || Round of 64||9 [[1987–88 Memphis State Tigers men's basketball team|Memphis State]]||L 75–60
+|-
+| Midwest || 9|| [[1987–88 Memphis State Tigers men's basketball team|Memphis State]] || [[Larry Finch]] || Metro || Round of 32||1 [[1987–88 Purdue Boilermakers men's basketball team|Purdue]]||L 100–73
+|-
+| Midwest || 10|| [[1987–88 Utah State Aggies men's basketball team|Utah State]] || [[Rod Tueller]] || Pacific Coast || Round of 64||7 [[1987–88 Vanderbilt Commodores men's basketball team|Vanderbilt]]||L 80–77
+|-
+| Midwest || 11|| [[1987–88 Xavier Musketeers men's basketball team|Xavier]] || [[Pete Gillen]] || Midwestern || Round of 64||6 [[1987–88 Kansas Jayhawks men's basketball team|Kansas]]||L 85–72
+|-
+| Midwest || 12|| [[1987–88 Wichita State Shockers men's basketball team|Wichita State]] || [[Eddie Fogler]] || Missouri Valley || Round of 64||5 [[1987–88 DePaul Blue Demons men's basketball team|DePaul]]||L 83–62
+|-
+| Midwest || 13|| [[1987–88 La Salle Explorers men's basketball team|La Salle]] || [[Speedy Morris]] || Metro Atlantic || Round of 64||4 [[1987–88 Kansas State Wildcats men's basketball team|Kansas State]]||L 66–53
+|-
+| Midwest || 14|| [[1987–88 Murray State Racers men's basketball team|Murray State]] || [[Steve Newton]] || Ohio Valley || Round of 32||6 [[1987–88 Kansas Jayhawks men's basketball team|Kansas]]||L 61–58
+|-
+| Midwest || 15|| [[1987–88 Eastern Michigan Hurons men's basketball team|Eastern Michigan]] || [[Ben Braun]] || Mid-American || Round of 64||2 [[1987–88 Pittsburgh Panthers men's basketball team|Pittsburgh]]||L 108–90
+|-
+| Midwest || 16|| [[1987–88 Fairleigh Dickinson Knights men's basketball team|Fairleigh Dickinson]] || [[Tom Green (basketball coach)|Tom Green]] || ECAC Metro || Round of 64||1 [[1987–88 Purdue Boilermakers men's basketball team|Purdue]]||L 94–79
+|-
+! colspan="8"| Southeast
+|-
+| Southeast || 1|| [[1987–88 Oklahoma Sooners men's basketball team|Oklahoma]] || [[Billy Tubbs]] || Big Eight || Runner Up||6 [[1987–88 Kansas Jayhawks men's basketball team|Kansas]]||L 83–79
+|-
+| Southeast || 2|| [[1987–88 Kentucky Wildcats men's basketball team|Kentucky]] (Vacated) || [[Eddie Sutton]] || Southeastern || Sweet Sixteen#||6 [[Villanova Wildcats men's basketball|Villanova]]||L 80–74
+|-
+| Southeast || 3|| [[1987–88 Illinois Fighting Illini men's basketball team|Illinois]] || [[Lou Henson]] || Big Ten || Round of 32||6 [[Villanova Wildcats men's basketball|Villanova]]||L 66–63
+|-
+| Southeast || 4|| [[1987–88 BYU Cougars men's basketball team|BYU]] || [[LaDell Andersen]] || Western Athletic || Round of 32||5 [[1987–88 Louisville Cardinals men's basketball team|Louisville]]||L 97–76
+|-
+| Southeast || 5|| [[1987–88 Louisville Cardinals men's basketball team|Louisville]] || [[Denny Crum]] || Metro || Sweet Sixteen||1 [[1987–88 Oklahoma Sooners men's basketball team|Oklahoma]]||L 108–98
+|-
+| Southeast || 6|| [[1987–88 Villanova Wildcats men's basketball team|Villanova]] || [[Rollie Massimino]] || Big East || Regional Runner-up||1 [[1987–88 Oklahoma Sooners men's basketball team|Oklahoma]]||L 78–59
+|-
+| Southeast || 7|| [[1987–88 Maryland Terrapins men's basketball team|Maryland]] (Vacated) || [[Bob Wade (basketball coach)|Bob Wade]] || Atlantic Coast || Round of 32||2 [[1987–88 Kentucky Wildcats men's basketball team|Kentucky]]||L 90–81
+|-
+| Southeast || 8|| [[1987–88 Auburn Tigers men's basketball team|Auburn]] || [[Sonny Smith]] || Southeastern || Round of 32||1 [[1987–88 Oklahoma Sooners men's basketball team|Oklahoma]]||L 107–87
+|-
+| Southeast || 9|| [[1987–88 Bradley Braves men's basketball team|Bradley]] || [[Stan Albeck]] || Missouri Valley || Round of 64||8 [[1987–88 Auburn Tigers men's basketball team|Auburn]]||L 90–86
+|-
+| Southeast || 10|| [[1987–88 UC Santa Barbara Gauchos men's basketball team|UC Santa Barbara]] || [[Jerry Pimm]] || Pacific Coast || Round of 64||7 [[Maryland Terrapins men's basketball|Maryland]]||L 92–82
+|-
+| Southeast || 11|| [[1987–88 Arkansas Razorbacks men's basketball team|Arkansas]] || [[Nolan Richardson]] || Southwest || Round of 64||6 [[Villanova Wildcats men's basketball|Villanova]]||L 82–74
+|-
+| Southeast || 12|| [[1987–88 Oregon State Beavers men's basketball team|Oregon State]] || [[Ralph Miller]] || Pacific-10 || Round of 64||5 [[1987–88 Louisville Cardinals men's basketball team|Louisville]]||L 70–61
+|-
+| Southeast || 13|| {{cbb link|year=1987|sex=men|team=Charlotte 49ers|title=Charlotte}} || [[Jeff Mullins (basketball)|Jeff Mullins]] || Sun Belt || Round of 64||4 [[BYU Cougars men's basketball|BYU]]||L 98–92
+|-
+| Southeast || 14|| [[1987–88 UTSA Roadrunners men's basketball team|UTSA]] || [[Ken Burmeister]] || Trans America || Round of 64||3 [[1987–88 Illinois Fighting Illini men's basketball team|Illinois]]||L 81–72
+|-
+| Southeast || 15|| [[1987–88 Southern Jaguars basketball team|Southern]] || [[Ben Jobe]] || Southwest Athletic || Round of 64||2 [[1987–88 Kentucky Wildcats men's basketball team|Kentucky]]||L 99–84
+|-
+| Southeast || 16|| {{cbb link|year=1987|sex=men|team=Chattanooga Mocs|title=Chattanooga}} || [[Mack McCarthy]] || Southern || Round of 64||1 [[1987–88 Oklahoma Sooners men's basketball team|Oklahoma]]||L 94–66
+|-
+! colspan="8"| West
+|-
+| West || 1|| [[1987–88 Arizona Wildcats men's basketball team|Arizona]] || [[Lute Olson]] || Pacific-10 || National semifinals||1 [[1987–88 Oklahoma Sooners men's basketball team|Oklahoma]]||L 86–78
+|-
+| West || 2|| [[1987–88 North Carolina Tar Heels men's basketball team|North Carolina]] || [[Dean Smith]] || Atlantic Coast || Regional Runner-up||1 [[1987–88 Arizona Wildcats men's basketball team|Arizona]]||L 70–52
+|-
+| West || 3|| [[1987–88 Michigan Wolverines men's basketball team|Michigan]] || [[Bill Frieder]] || Big Ten || Sweet Sixteen||2 [[1987–88 North Carolina Tar Heels men's basketball team|North Carolina]]||L 78–69
+|-
+| West || 4|| [[1987–88 UNLV Runnin' Rebels basketball team|UNLV]] || [[Jerry Tarkanian]] || Pacific Coast || Round of 32||5 [[1987–88 Iowa Hawkeyes men's basketball team|Iowa]]||L 104–86
+|-
+| West || 5|| [[1987–88 Iowa Hawkeyes men's basketball team|Iowa]] || [[Tom Davis (basketball, born 1938)|Tom Davis]] || Big Ten || Sweet Sixteen||1 [[1987–88 Arizona Wildcats men's basketball team|Arizona]]||L 99–79
+|-
+| West || 6|| [[1987–88 Florida Gators men's basketball team|Florida]] || [[Norm Sloan]] || Southeastern || Round of 32||3 [[1987–88 Michigan Wolverines men's basketball team|Michigan]]||L 108–85
+|-
+| West || 7|| [[1987–88 Wyoming Cowboys basketball team|Wyoming]] || [[Benny Dees]] || Western Athletic || Round of 64||10 [[1987–88 Loyola Marymount Lions men's basketball team|Loyola Marymount]]||L 119–115
+|-
+| West || 8|| [[1987–88 Seton Hall Pirates men's basketball team|Seton Hall]] || [[P.J. Carlesimo]] || Big East || Round of 32||1 [[1987–88 Arizona Wildcats men's basketball team|Arizona]]||L 84–55
+|-
+| West || 9|| [[1987–88 UTEP Miners men's basketball team|UTEP]] || [[Don Haskins]] || Western Athletic || Round of 64||8 [[1987–88 Seton Hall Pirates men's basketball team|Seton Hall]]||L 80–64
+|-
+| West || 10|| [[1987–88 Loyola Marymount Lions men's basketball team|Loyola Marymount]] || [[Paul Westhead]] || West Coast || Round of 32||2 [[1987–88 North Carolina Tar Heels men's basketball team|North Carolina]]||L 123–97
+|-
+| West || 11|| [[1987–88 St. John's Redmen basketball team|St. John's]] || [[Lou Carnesecca]] || Big East || Round of 64||6 [[Florida Gators men's basketball|Florida]]||L 62–59
+|-
+| West || 12|| [[1987–88 Florida State Seminoles men's basketball team|Florida State]] || [[Pat Kennedy]] || Metro || Round of 64||5 [[1987–88 Iowa Hawkeyes men's basketball team|Iowa]]||L 102–98
+|-
+| West || 13|| [[1987–88 Southwest Missouri State Bears basketball team|Southwest Missouri State]] || [[Charlie Spoonhour]] || Mid-Continent || Round of 64||4 [[1987–88 UNLV Runnin' Rebels basketball team|UNLV]]||L 54–50
+|-
+| West || 14|| [[1987–88 Boise State Broncos men's basketball team|Boise State]] || [[Bobby Dye]] || Big Sky || Round of 64||3 [[1987–88 Michigan Wolverines men's basketball team|Michigan]]||L 63–58
+|-
+| West || 15|| [[1987–88 North Texas State Mean Green men's basketball team|North Texas State]] || [[Jimmy Gales]] || Southland || Round of 64||2 [[1987–88 North Carolina Tar Heels men's basketball team|North Carolina]]||L 83–65<!--North Texas was called "North Texas State" until the summer of 1988.-->
+|-
+| West || 16|| [[1987–88 Cornell Big Red men's basketball team|Cornell]] || [[Mike Dement]] || Ivy League || Round of 64||1 [[1987–88 Arizona Wildcats men's basketball team|Arizona]]||L 90–50
+|-
+|}
+Kentucky and Maryland were later stripped of its NCAA tournament wins due to ineligible players.
+
+==Bracket==
+
+===East Regional – East Rutherford, New Jersey===
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Hartford Civic Center|Hartford]]'''
+ | subgroup2= '''[[Hartford Civic Center|Hartford]]'''
+ | subgroup3= '''[[Dean Smith Center|Chapel Hill]]'''
+ | subgroup4= '''[[Dean Smith Center|Chapel Hill]]'''
+| RD1-team01='''Temple'''
+ | RD1-score01='''87'''
+ | RD1-seed02=16
+ | RD1-team02=Lehigh
+ | RD1-score02=73
+ | RD1-seed03=8
+ | RD1-team03='''Georgetown'''
+ | RD1-score03='''66'''
+ | RD1-seed04=9
+ | RD1-team04=LSU
+ | RD1-score04=63
+ | RD1-seed05=5
+ | RD1-team05='''Georgia Tech'''
+ | RD1-score05='''90'''
+ | RD1-seed06=12
+ | RD1-team06=Iowa State
+ | RD1-score06=78
+ | RD1-seed07=4
+ | RD1-team07=Indiana
+ | RD1-score07=69
+ | RD1-seed08=13
+ | RD1-team08='''Richmond'''
+ | RD1-score08='''72'''
+ | RD1-seed09=6
+ | RD1-team09=Missouri
+ | RD1-score09=80
+ | RD1-seed10=11
+ | RD1-team10='''Rhode Island'''
+ | RD1-score10='''87'''
+ | RD1-seed11=3
+ | RD1-team11='''Syracuse'''
+ | RD1-score11='''69'''
+ | RD1-seed12=14
+ | RD1-team12=North Carolina A&T
+ | RD1-score12=55
+ | RD1-seed13=7
+ | RD1-team13='''SMU'''
+ | RD1-score13='''83'''
+ | RD1-seed14=10
+ | RD1-team14=Notre Dame
+ | RD1-score14=75
+ | RD1-seed15=2
+ | RD1-team15='''Duke'''
+ | RD1-score15='''85'''
+ | RD1-seed16=15
+ | RD1-team16=Boston University
+ | RD1-score16=69
+ | RD2-seed01=1
+ | RD2-team01='''Temple'''
+ | RD2-score01='''74'''
+ | RD2-seed02=8
+ | RD2-team02=Georgetown
+ | RD2-score02=53
+ | RD2-seed03=5
+ | RD2-team03=Georgia Tech
+ | RD2-score03=55
+ | RD2-seed04=13
+ | RD2-team04='''Richmond'''
+ | RD2-score04='''59'''
+ | RD2-seed05=11
+ | RD2-team05='''Rhode Island'''
+ | RD2-score05='''97'''
+ | RD2-seed06=3
+ | RD2-team06=Syracuse
+ | RD2-score06=94
+ | RD2-seed07=7
+ | RD2-team07=SMU
+ | RD2-score07=79
+ | RD2-seed08=2
+ | RD2-team08='''Duke'''
+ | RD2-score08='''94'''
+ | RD3-seed01=1
+ | RD3-team01='''Temple'''
+ | RD3-score01='''69'''
+ | RD3-seed02=13
+ | RD3-team02=Richmond
+ | RD3-score02=47
+ | RD3-seed03=11
+ | RD3-team03=Rhode Island
+ | RD3-score03=72
+ | RD3-seed04=2
+ | RD3-team04='''Duke'''
+ | RD3-score04='''73'''
+ | RD4-seed01=1
+ | RD4-team01=Temple
+ | RD4-score01=53
+ | RD4-seed02=2
+ | RD4-team02='''Duke'''
+ | RD4-score02='''63'''
+}}
+
+===Midwest Regional – Pontiac, Michigan===
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Edmund P. Joyce Center|South Bend]]'''
+ | subgroup2= '''[[Edmund P. Joyce Center|South Bend]]'''
+ | subgroup3= '''[[Bob Devaney Sports Center|Lincoln]]'''
+ | subgroup4= '''[[Bob Devaney Sports Center|Lincoln]]'''
+| RD1-team01='''Purdue'''
+ | RD1-score01='''94'''
+ | RD1-seed02=16
+ | RD1-team02=Fairleigh Dickinson
+ | RD1-score02=79
+ | RD1-seed03=8
+ | RD1-team03=Baylor
+ | RD1-score03=60
+ | RD1-seed04=9
+ | RD1-team04='''Memphis'''
+ | RD1-score04='''75'''
+ | RD1-seed05=5
+ | RD1-team05='''DePaul'''
+ | RD1-score05='''83'''
+ | RD1-seed06=12
+ | RD1-team06=Wichita State
+ | RD1-score06=62
+ | RD1-seed07=4
+ | RD1-team07='''Kansas State'''
+ | RD1-score07='''66'''
+ | RD1-seed08=13
+ | RD1-team08=La Salle
+ | RD1-score08=53
+ | RD1-seed09=6
+ | RD1-team09='''Kansas'''
+ | RD1-score09='''85'''
+ | RD1-seed10=11
+ | RD1-team10=Xavier
+ | RD1-score10=72
+ | RD1-seed11=3
+ | RD1-team11=NC State
+ | RD1-score11=75
+ | RD1-seed12=14
+ | RD1-team12='''Murray State'''
+ | RD1-score12='''78'''
+ | RD1-seed13=7
+ | RD1-team13='''Vanderbilt'''
+ | RD1-score13='''80'''
+ | RD1-seed14=10
+ | RD1-team14=Utah State
+ | RD1-score14=77
+ | RD1-seed15=2
+ | RD1-team15='''Pittsburgh'''
+ | RD1-score15='''108'''
+ | RD1-seed16=15
+ | RD1-team16=Eastern Michigan
+ | RD1-score16=90
+ | RD2-seed01=1
+ | RD2-team01='''Purdue'''
+ | RD2-score01='''100'''
+ | RD2-seed02=9
+ | RD2-team02=Memphis
+ | RD2-score02=73
+ | RD2-seed03=5
+ | RD2-team03=DePaul
+ | RD2-score03=58
+ | RD2-seed04=4
+ | RD2-team04='''Kansas State'''
+ | RD2-score04='''66'''
+ | RD2-seed05=6
+ | RD2-team05='''Kansas'''
+ | RD2-score05='''61'''
+ | RD2-seed06=14
+ | RD2-team06=Murray State
+ | RD2-score06=58
+ | RD2-seed07=7
+ | RD2-team07='''Vanderbilt'''
+ | RD2-score07='''80<sup>OT</sup>'''
+ | RD2-seed08=2
+ | RD2-team08=Pittsburgh
+ | RD2-score08=74
+ | RD3-seed01=1
+ | RD3-team01=Purdue
+ | RD3-score01=70
+ | RD3-seed02=4
+ | RD3-team02='''Kansas State'''
+ | RD3-score02='''73'''
+ | RD3-seed03=6
+ | RD3-team03='''Kansas'''
+ | RD3-score03='''77'''
+ | RD3-seed04=7
+ | RD3-team04=Vanderbilt
+ | RD3-score04=64
+ | RD4-seed01=4
+ | RD4-team01=Kansas State
+ | RD4-score01=58
+ | RD4-seed02=6
+ | RD4-team02='''Kansas'''
+ | RD4-score02='''71'''
+}}
+
+===Southeast Regional – Birmingham, Alabama===
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Omni Coliseum|Atlanta]]'''
+ | subgroup2= '''[[Omni Coliseum|Atlanta]]'''
+ | subgroup3= '''[[Riverfront Coliseum|Cincinnati]]'''
+ | subgroup4= '''[[Riverfront Coliseum|Cincinnati]]'''
+| RD1-team01='''Oklahoma'''
+ | RD1-score01='''94'''
+ | RD1-seed02=16
+ | RD1-team02=Chattanooga
+ | RD1-score02=66
+ | RD1-seed03=8
+ | RD1-team03='''Auburn'''
+ | RD1-score03='''90'''
+ | RD1-seed04=9
+ | RD1-team04=Bradley
+ | RD1-score04=86
+ | RD1-seed05=5
+ | RD1-team05='''Louisville'''
+ | RD1-score05='''70'''
+ | RD1-seed06=12
+ | RD1-team06=Oregon State
+ | RD1-score06=61
+ | RD1-seed07=4
+ | RD1-team07='''BYU'''
+ | RD1-score07='''98<sup>OT</sup>'''
+ | RD1-seed08=13
+ | RD1-team08=Charlotte
+ | RD1-score08=92
+ | RD1-seed09=6
+ | RD1-team09='''Villanova'''
+ | RD1-score09='''82'''
+ | RD1-seed10=11
+ | RD1-team10=Arkansas
+ | RD1-score10=74
+ | RD1-seed11=3
+ | RD1-team11='''Illinois'''
+ | RD1-score11='''81'''
+ | RD1-seed12=14
+ | RD1-team12=UTSA
+ | RD1-score12=72
+ | RD1-seed13=7
+ | RD1-team13='''{{strikethrough|Maryland}}'''
+ | RD1-score13='''92'''
+ | RD1-seed14=10
+ | RD1-team14=UC Santa Barbara
+ | RD1-score14=82
+ | RD1-seed15=2
+ | RD1-team15='''{{strikethrough|Kentucky}}'''
+ | RD1-score15='''99'''
+ | RD1-seed16=15
+ | RD1-team16=Southern
+ | RD1-score16=84
+ | RD2-seed01=1
+ | RD2-team01='''Oklahoma'''
+ | RD2-score01='''107'''
+ | RD2-seed02=8
+ | RD2-team02=Auburn
+ | RD2-score02=87
+ | RD2-seed03=5
+ | RD2-team03='''Louisville'''
+ | RD2-score03='''97'''
+ | RD2-seed04=4
+ | RD2-team04=BYU
+ | RD2-score04=76
+ | RD2-seed05=6
+ | RD2-team05='''Villanova'''
+ | RD2-score05='''66'''
+ | RD2-seed06=3
+ | RD2-team06=Illinois
+ | RD2-score06=63
+ | RD2-seed07=7
+ | RD2-team07={{strikethrough|Maryland}}
+ | RD2-score07=81
+ | RD2-seed08=2
+ | RD2-team08='''{{strikethrough|Kentucky}}'''
+ | RD2-score08='''90'''
+ | RD3-seed01=1
+ | RD3-team01='''Oklahoma'''
+ | RD3-score01='''108'''
+ | RD3-seed02=5
+ | RD3-team02=Louisville
+ | RD3-score02=98
+ | RD3-seed03=6
+ | RD3-team03='''Villanova'''
+ | RD3-score03='''80'''
+ | RD3-seed04=2
+ | RD3-team04={{strikethrough|Kentucky}}
+ | RD3-score04=74
+ | RD4-seed01=1
+ | RD4-team01='''Oklahoma'''
+ | RD4-score01='''78'''
+ | RD4-seed02=6
+ | RD4-team02=Villanova
+ | RD4-score02=59
+}}
+
+Kentucky was later stripped of its two NCAA tournament wins due to an ineligible player. Maryland also vacated its appearance in the 1988 tournament due to usage of ineligible players.<ref>{{Cite web|url=https://www.sports-reference.com/cbb/friv/forfeits.cgi#:~:text=A%20forfeit%20changes%20a%20school's,original%20loss%20into%20a%20win.&text=A%20vacated%20game%20is%20expunged,opponent's%20record%20is%20not%20changed.|title=Forfeits and Vacated Games|website=Sports-Reference.com|accessdate=May 24, 2024}}</ref><ref>{{Cite web|url=https://www.latimes.com/archives/la-xpm-1990-03-06-sp-1878-story.html|author=Associated Press|title=Maryland Gets 3-Year Penalty : College basketball: NCAA cites university for 18 violations and orders it to return money earned from 1988 tournament.|publisher=[[Los Angeles Times]]|date=March 6, 1990|accessdate=May 24, 2024}}</ref> Unlike forfeiture, a vacated game does not result in the other school being credited with a win, only with Maryland and Kentucky removing the wins from their own records.
+
+===West Regional – Seattle, Washington ===
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Pauley Pavilion|Los Angeles]]'''
+ | subgroup2= '''[[Pauley Pavilion|Los Angeles]]'''
+ | subgroup3= '''[[Jon M. Huntsman Center|Salt Lake City]]'''
+ | subgroup4= '''[[Jon M. Huntsman Center|Salt Lake City]]'''
+| RD1-team01='''Arizona'''
+ | RD1-score01='''90'''
+ | RD1-seed02=16
+ | RD1-team02=Cornell
+ | RD1-score02=50
+ | RD1-seed03=8
+ | RD1-team03='''Seton Hall'''
+ | RD1-score03='''80'''
+ | RD1-seed04=9
+ | RD1-team04=UTEP
+ | RD1-score04=64
+ | RD1-seed05=5
+ | RD1-team05='''Iowa'''
+ | RD1-score05='''102'''
+ | RD1-seed06=12
+ | RD1-team06=Florida State
+ | RD1-score06=98
+ | RD1-seed07=4
+ | RD1-team07='''UNLV'''
+ | RD1-score07='''54'''
+ | RD1-seed08=13
+ | RD1-team08=Southwest Missouri State
+ | RD1-score08=50
+ | RD1-seed09=6
+ | RD1-team09='''Florida'''
+ | RD1-score09='''62'''
+ | RD1-seed10=11
+ | RD1-team10=St. John's
+ | RD1-score10=59
+ | RD1-seed11=3
+ | RD1-team11='''Michigan'''
+ | RD1-score11='''63'''
+ | RD1-seed12=14
+ | RD1-team12=Boise State
+ | RD1-score12=58
+ | RD1-seed13=7
+ | RD1-team13=Wyoming
+ | RD1-score13=115
+ | RD1-seed14=10
+ | RD1-team14='''Loyola Marymount'''
+ | RD1-score14='''119'''
+ | RD1-seed15=2
+ | RD1-team15='''North Carolina'''
+ | RD1-score15='''83'''
+ | RD1-seed16=15
+ | RD1-team16=North Texas State
+ | RD1-score16=65
+ | RD2-seed01=1
+ | RD2-team01='''Arizona'''
+ | RD2-score01='''84'''
+ | RD2-seed02=8
+ | RD2-team02=Seton Hall
+ | RD2-score02=55
+ | RD2-seed03=5
+ | RD2-team03='''Iowa'''
+ | RD2-score03='''104'''
+ | RD2-seed04=4
+ | RD2-team04=UNLV
+ | RD2-score04=86
+ | RD2-seed05=6
+ | RD2-team05=Florida
+ | RD2-score05=85
+ | RD2-seed06=3
+ | RD2-team06='''Michigan'''
+ | RD2-score06='''108'''
+ | RD2-seed07=10
+ | RD2-team07=Loyola Marymount
+ | RD2-score07=97
+ | RD2-seed08=2
+ | RD2-team08='''North Carolina'''
+ | RD2-score08='''123'''
+ | RD3-seed01=1
+ | RD3-team01='''Arizona'''
+ | RD3-score01='''99'''
+ | RD3-seed02=5
+ | RD3-team02=Iowa
+ | RD3-score02=79
+ | RD3-seed03=3
+ | RD3-team03=Michigan
+ | RD3-score03=69
+ | RD3-seed04=2
+ | RD3-team04='''North Carolina'''
+ | RD3-score04='''78'''
+ | RD4-seed01=1
+ | RD4-team01='''Arizona'''
+ | RD4-score01='''70'''
+ | RD4-seed02=2
+ | RD4-team02=North Carolina
+ | RD4-score02=52
+}}
+
+===Final Four – Kansas City, Missouri===
+{{4TeamBracket | RD1=National semifinals | RD2=National Championship Game
+ | RD1-seed1=E2
+ | RD1-team1=Duke
+ | RD1-score1=59
+ | RD1-seed2='''MW6'''
+ | RD1-team2='''Kansas'''
+ | RD1-score2='''66'''
+ | RD1-seed3='''SE1'''
+ | RD1-team3='''Oklahoma'''
+ | RD1-score3='''86'''
+ | RD1-seed4=W1
+ | RD1-team4=Arizona
+ | RD1-score4=78
+ | RD2-seed1='''MW6'''
+ | RD2-team1='''Kansas'''
+ | RD2-score1='''83'''
+ | RD2-seed2=SE1
+ | RD2-team2=Oklahoma
+ | RD2-score2=79
+}}
+
+==Game summaries==
+
+{{basketballbox
+ | bg = #eee
+ | date = Final Four<br />April 2
+ | time = 
+ | report = [https://news.google.com/newspapers?nid=dBzKUGQurMsC&dat=19880403&printsec=frontpage&hl=en Box Score]
+ | team1 = '''Kansas Jayhawks'''
+ | score1 = '''66'''
+ | team2 = Duke Blue Devils
+ | score2 = 59
+ | overtime =
+ | H1 = 38–27
+ | H2 = 28–32
+ | OT = 
+ | points1 = [[Danny Manning]] 25
+ | rebounds1 = Danny Manning 10
+ | assist1 = [[Kevin Pritchard]] 5
+ | otherstat1 = 
+ | points2 = [[Danny Ferry]] 19
+ | rebounds2 = Danny Ferry 12
+ | assist2 = [[Quin Snyder]] 5
+ | otherstat2 =
+ | place = [[Kemper Arena]], [[Kansas City, Missouri]]
+ | attendance = 16,392
+ | referee = Booker Turner, Jim Burr, Larry Lembo
+ | TV = 
+ | series = Kansas advances to Championship Game
+}}
+
+{{basketballbox
+ | bg = #eee
+ | date = Final Four<br />April 2
+ | time = 
+ | report = [https://news.google.com/newspapers?nid=dBzKUGQurMsC&dat=19880403&printsec=frontpage&hl=en Box Score]
+ | team1 = Arizona Wildcats
+ | score1 = 78
+ | team2 = '''Oklahoma Sooners'''
+ | score2 = '''86'''
+ | overtime =
+ | H1 = 27–39
+ | H2 = 51–47
+ | OT = 
+ | points1 = [[Sean Elliott]] 31
+ | rebounds1 = [[Tom Tolbert]] 13
+ | assist1 = [[Steve Kerr]] 5
+ | otherstat1 = 
+ | points2 = [[Mookie Blaylock]]/[[Harvey Grant]] 21
+ | rebounds2 = Harvey Grant 10
+ | assist2 = [[Ricky Grace]] 8
+ | otherstat2 =
+ | place = [[Kemper Arena]], [[Kansas City, Missouri]]
+ | attendance = 16,392
+ | referee = 
+ | TV = 
+ | series = Oklahoma advances to Championship game
+}}
+
+{{Main|1988 NCAA Division I Men's Basketball Championship Game}}
+
+==Announcers==
+
+===Television===
+[[CBS Sports]]
+*[[Jim Nantz]] & [[James Brown (TV personality)|James Brown]] served as studio hosts.
+*[[Brent Musburger]] and [[Billy Packer]] – first round (Florida–St. John's) at Salt Lake City, Utah; second round at Hartford, Connecticut and Chapel Hill, North Carolina; West Regional at Seattle, Washington; Final Four at Kansas City, Missouri
+*[[Tim Brant]] and [[Bill Raftery]] – First (UNLV–SW Missouri State) and Second Rounds at Los Angeles, California; East Regional at East Rutherford, New Jersey
+*[[Dick Stockton]] and [[Billy Cunningham]] – second round at Lincoln, Nebraska and Salt Lake City, Utah; Southeast Regional at Birmingham, Alabama
+*[[Verne Lundquist]] and [[Tom Heinsohn]] – second round at Cincinnati, Ohio and South Bend, Indiana; Midwest Regional at Pontiac, Michigan
+*[[Tim Ryan (sportscaster)|Tim Ryan]] and Curry Kirkpatrick – second round at Atlanta, Georgia
+[[ESPN]] and NCAA Productions
+*[[John Saunders (journalist)|John Saunders]] (NCAA Tournament Today) and [[Bob Ley]] (NCAA Tournament Tonight) served as studio hosts and [[Dick Vitale]] served as studio analyst.
+*[[Mike Gorman]] and [[Ron Perry (basketball, born 1958)|Ron Perry]] – first round (Temple–Lehigh, Georgia Tech–Iowa State) at Hartford, Connecticut
+*[[Bob Carpenter (sportscaster)|Bob Carpenter]] and Dan Belluomini – first round (Indiana–Richmond, Georgetown–LSU) at Hartford, Connecticut
+*Ralph Hacker and [[Bucky Waters]] – first round (Duke–Boston University, Missouri–Rhode Island) at Chapel Hill, North Carolina
+*[[Bob Rathbun]] and [[Dan Bonner]] – first round (Syracuse–North Carolina A&T, SMU–Notre Dame) at Chapel Hill, North Carolina
+*[[Fred White (sportscaster)|Fred White]] and [[Larry Conley]] – first round (Oklahoma–Chattanooga, Louisville–Oregon State) at Atlanta, Georgia
+*[[Mike Patrick]] and [[Bob Ortegel]] – first round (Brigham Young–Charlotte, Auburn–Bradley) at Atlanta, Georgia
+*[[Tom Hammond]] and Mike Pratt – first round (Kentucky–Southern, Illinois–UTSA) at Cincinnati, Ohio
+*[[Mick Hubert]] and [[Jack Givens]] – first round (Villanova–Arkansas, Maryland–UC Santa Barbara) at Cincinnati, Ohio
+*[[Eddie Doucette]] and [[John Laskowski]] – first round (Purdue–Fairleigh Dickinson, Kansas State–La Salle) at South Bend, Indiana
+*[[Wayne Larrivee]] and Jim Gibbons – first round (DePaul–Wichita State, Baylor–Memphis State) at South Bend, Indiana
+*[[Ron Franklin]] and [[Quinn Buckner]] – first round (Pittsburgh–Eastern Michigan, N.C. State–Murray State) at Lincoln, Nebraska
+*[[John Sanders (sportscaster)|John Sanders]] and [[Gary Thompson (basketball player)|Gary Thompson]] – first round (Kansas–Xavier, Vanderbilt–Utah State) at Lincoln, Nebraska
+*Pete Solomon and [[Derrek Dickey]] – first round (Arizona–Cornell) at Los Angeles, California
+*Phil Stone and [[Lynn Shackelford]] – first round (Iowa–Florida State, Seton Hall–UTEP) at Los Angeles, California
+*[[Ted Robinson (sportscaster)|Ted Robinson]] and Bruce Larson – first round (North Carolina–North Texas) at Salt Lake City, Utah
+*Frank Fallon and Bruce Larson – first round (Michigan–Boise State) at Salt Lake City, Utah
+*Frank Fallon and [[Irv Brown]] – first round (Wyoming–Loyola Marymount) at Salt Lake City, Utah
+
+==See also==
+* [[1988 NCAA Division II men's basketball tournament]]
+* [[1988 NCAA Division III men's basketball tournament]]
+* [[1988 NCAA Division I women's basketball tournament]]
+* [[NCAA Division II women's basketball tournament|1988 NCAA Division II women's basketball tournament]]
+* [[NCAA Division III women's basketball tournament|1988 NCAA Division III women's basketball tournament]]
+* [[1988 National Invitation Tournament]]
+* [[National Women's Invitation Tournament|1988 National Women's Invitation Tournament]]
+* [[1988 NAIA Division I men's basketball tournament]]
+* [[NAIA Women's Basketball Championships|1988 NAIA Division I women's basketball tournament]]
+
+== References ==
+{{Reflist}}
+
+{{NCAA Division I men's basketball tournament navbox}}
+{{1988 NCAA Division I men's basketball tournament navbox}}
+{{1988 Kansas Jayhawks men's basketball navbox}}
+{{1987–88 NCAA Division I championships navbox}}
+{{Sports Emmy Award for Outstanding Live Sports Series}}
+
+[[Category:NCAA Division I men's basketball tournament]]
+[[Category:1987–88 NCAA Division I men's basketball season|Tournament]]
+[[Category:1988 in sports in Missouri|NCAA Division I men's basketball tournament]]
+[[Category:March 1988 sports events in the United States|NCAA Division I men's basketball tournament]]
+[[Category:April 1988 sports events in the United States|NCAA Division I men's basketball tournament]]

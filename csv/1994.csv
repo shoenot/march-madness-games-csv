@@ -1,0 +1,64 @@
+year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team_name,losing_team_seed,losing_team_score
+1994,64,North Carolina,1,71,Liberty,16,51
+1994,64,Boston College,9,67,Washington State,8,64
+1994,64,Indiana,5,84,Ohio,12,72
+1994,64,Temple,4,61,Drexel,13,39
+1994,64,Penn,11,90,Nebraska,6,80
+1994,64,Florida,3,64,James Madison,14,62
+1994,64,George Washington,10,51,UAB,7,46
+1994,64,Connecticut,2,64,Rider,15,46
+1994,32,Boston College,9,75,North Carolina,1,72
+1994,32,Indiana,5,67,Temple,4,58
+1994,32,Florida,3,70,Penn,11,58
+1994,32,Connecticut,2,75,George Washington,10,63
+1994,16,Boston College,9,77,Indiana,5,68
+1994,16,Florida,3,69,Connecticut,2,60
+1994,8,Florida,3,74,Boston College,9,66
+1994,64,Purdue,1,98,UCF,16,67
+1994,64,Alabama,9,76,Providence,8,70
+1994,64,Wake Forest,5,68,College of Charleston,12,58
+1994,64,Kansas,4,102,Chattanooga,13,73
+1994,64,Marquette,6,81,Southwest Louisiana,11,59
+1994,64,Kentucky,3,83,Tennessee State,14,70
+1994,64,Michigan State,7,84,Seton Hall,10,73
+1994,64,Duke,2,82,Texas Southern,15,70
+1994,32,Purdue,1,83,Alabama,9,73
+1994,32,Kansas,4,69,Wake Forest,5,58
+1994,32,Marquette,6,75,Kentucky,3,63
+1994,32,Duke,2,85,Michigan State,7,74
+1994,16,Purdue,1,83,Kansas,4,78
+1994,16,Duke,2,59,Marquette,6,49
+1994,8,Duke,2,69,Purdue,1,60
+1994,64,Arkansas,1,94,North Carolina A&T,16,79
+1994,64,Georgetown,9,84,Illinois,8,77
+1994,64,Tulsa,12,112,UCLA,5,102
+1994,64,Oklahoma State,4,65,New Mexico State,13,55
+1994,64,Texas,6,91,Western Kentucky,11,77
+1994,64,Michigan,3,78,Pepperdine,14,74
+1994,64,Maryland,10,74,Saint Louis,7,66
+1994,64,Massachusetts,2,78,Southwest Texas State,15,60
+1994,32,Arkansas,1,85,Georgetown,9,73
+1994,32,Tulsa,12,82,Oklahoma State,4,80
+1994,32,Michigan,3,84,Texas,6,79
+1994,32,Maryland,10,95,Massachusetts,2,87
+1994,16,Arkansas,1,103,Tulsa,12,84
+1994,16,Michigan,3,78,Maryland,10,71
+1994,8,Arkansas,1,76,Michigan,3,68
+1994,64,Missouri,1,76,Navy,16,53
+1994,64,Wisconsin,9,80,Cincinnati,8,72
+1994,64,UW–Green Bay,12,61,California,5,57
+1994,64,Syracuse,4,92,Hawaii,13,78
+1994,64,,6,74,Southern Illinois,11,60
+1994,64,Louisville,3,67,Boise State,14,58
+1994,64,Virginia,7,57,New Mexico,10,54
+1994,64,Arizona,2,81,Loyola (MD),15,55
+1994,32,Missouri,1,109,Wisconsin,9,96
+1994,32,Syracuse,4,64,UW–Green Bay,12,59
+1994,32,Louisville,3,60,,6,55
+1994,32,Arizona,2,71,Virginia,7,58
+1994,16,Missouri,1,98,Syracuse,4,88
+1994,16,Arizona,2,82,Louisville,3,70
+1994,8,Arizona,2,92,Missouri,1,72
+1994,4,Duke,2,70,Florida,3,65
+1994,4,Arkansas,1,91,Arizona,2,82
+1994,2,Arkansas,1,76,Duke,2,72

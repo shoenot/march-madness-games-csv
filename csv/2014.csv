@@ -1,0 +1,64 @@
+year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team_name,losing_team_seed,losing_team_score
+2014,64,Florida,1,67,Albany,16,55
+2014,64,Pittsburgh,9,77,Colorado,8,48
+2014,64,Stephen F. Austin,12,77,VCU,5,75
+2014,64,UCLA,4,76,Tulsa,13,59
+2014,64,Dayton,11,60,Ohio State,6,59
+2014,64,Syracuse,3,77,Western Michigan,14,53
+2014,64,Stanford,10,58,New Mexico,7,53
+2014,64,Kansas,2,80,Eastern Kentucky,15,69
+2014,32,Florida,1,61,Pittsburgh,9,45
+2014,32,UCLA,4,77,Stephen F. Austin,12,60
+2014,32,Dayton,11,55,Syracuse,3,53
+2014,32,Stanford,10,60,Kansas,2,57
+2014,16,Florida,1,79,UCLA,4,68
+2014,16,Dayton,11,82,Stanford,10,72
+2014,8,Florida,1,62,Dayton,11,52
+2014,64,Virginia,1,70,Coastal Carolina,16,59
+2014,64,Memphis,8,71,George Washington,9,66
+2014,64,Harvard,12,61,Cincinnati,5,57
+2014,64,Michigan State,4,93,Delaware,13,78
+2014,64,North Carolina,6,79,Providence,11,77
+2014,64,Iowa State,3,93,NC Central,14,75
+2014,64,UConn,7,89,Saint Joseph's,10,81
+2014,64,Villanova,2,73,Milwaukee,15,53
+2014,32,Virginia,1,78,Memphis,8,60
+2014,32,Michigan State,4,80,Harvard,12,73
+2014,32,Iowa State,3,85,North Carolina,6,83
+2014,32,UConn,7,77,Villanova,2,65
+2014,16,Michigan State,4,61,Virginia,1,59
+2014,16,UConn,7,81,Iowa State,3,76
+2014,8,UConn,7,60,Michigan State,4,54
+2014,64,Arizona,1,68,Weber State,16,59
+2014,64,Gonzaga,8,85,Oklahoma State,9,77
+2014,64,North Dakota State,12,80,Oklahoma,5,75
+2014,64,San Diego State,4,73,New Mexico State,13,69
+2014,64,Baylor,6,74,Nebraska,11,60
+2014,64,Creighton,3,76,Louisiana–Lafayette,14,66
+2014,64,Oregon,7,87,BYU,10,68
+2014,64,Wisconsin,2,75,American,15,35
+2014,32,Arizona,1,84,Gonzaga,8,61
+2014,32,San Diego State,4,63,North Dakota State,12,44
+2014,32,Baylor,6,85,Creighton,3,55
+2014,32,Wisconsin,2,85,Oregon,7,77
+2014,16,Arizona,1,70,San Diego State,4,64
+2014,16,Wisconsin,2,69,Baylor,6,52
+2014,8,Wisconsin,2,64,Arizona,1,63
+2014,64,Wichita State,1,64,Cal Poly,16,37
+2014,64,Kentucky,8,56,Kansas State,9,49
+2014,64,Saint Louis,5,83,NC State,12,80
+2014,64,,4,71,Manhattan,13,64
+2014,64,Tennessee,11,86,Massachusetts,6,67
+2014,64,Mercer,14,78,Duke,3,71
+2014,64,Texas,7,87,Arizona State,10,85
+2014,64,Michigan,2,57,Wofford,15,40
+2014,32,Kentucky,8,78,Wichita State,1,76
+2014,32,,4,66,Saint Louis,5,51
+2014,32,Tennessee,11,83,Mercer,14,63
+2014,32,Michigan,2,79,Texas,7,65
+2014,16,Kentucky,8,74,,4,69
+2014,16,Michigan,2,73,Tennessee,11,71
+2014,8,Kentucky,8,75,Michigan,2,72
+2014,4,Kentucky,8,74,Wisconsin,2,73
+2014,4,UConn,7,63,Florida,1,53
+2014,2,UConn,7,60,Kentucky,8,54

@@ -1,0 +1,64 @@
+year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team_name,losing_team_seed,losing_team_score
+2000,64,Duke,1,82,Lamar,16,55
+2000,64,Kansas,8,81,DePaul,9,77
+2000,64,Florida,5,69,Butler,12,68
+2000,64,Illinois,4,68,Pennsylvania,13,58
+2000,64,Pepperdine,11,77,Indiana,6,57
+2000,64,Oklahoma State,3,86,Hofstra,14,66
+2000,64,Seton Hall,10,72,Oregon,7,71
+2000,64,Temple,2,73,Lafayette,15,47
+2000,32,Duke,1,69,Kansas,8,64
+2000,32,Florida,5,93,Illinois,4,76
+2000,32,Oklahoma State,3,75,Pepperdine,11,67
+2000,32,Seton Hall,10,67,Temple,2,65
+2000,16,Florida,5,87,Duke,1,78
+2000,16,Oklahoma State,3,68,Seton Hall,10,66
+2000,8,Florida,5,77,Oklahoma State,3,65
+2000,64,Stanford,1,84,South Carolina State,16,65
+2000,64,North Carolina,8,84,Missouri,9,70
+2000,64,Connecticut,5,75,Utah State,12,67
+2000,64,Tennessee,4,63,Louisiana-Lafayette,13,58
+2000,64,Miami (FL),6,75,Arkansas,11,71
+2000,64,,3,87,Appalachian State,14,61
+2000,64,Tulsa,7,89,UNLV,10,62
+2000,64,Cincinnati,2,64,UNC Wilmington,15,47
+2000,32,North Carolina,8,60,Stanford,1,53
+2000,32,Tennessee,4,65,Connecticut,5,51
+2000,32,Miami (FL),6,75,,3,62
+2000,32,Tulsa,7,69,Cincinnati,2,61
+2000,16,North Carolina,8,74,Tennessee,4,69
+2000,16,Tulsa,7,80,Miami (FL),6,71
+2000,8,North Carolina,8,59,Tulsa,7,55
+2000,64,Michigan State,1,65,Valparaiso,16,38
+2000,64,Utah,8,48,St. Louis,9,45
+2000,64,Kentucky,5,85,St. Bonaventure,12,80
+2000,64,Syracuse,4,79,Samford,13,65
+2000,64,UCLA,6,65,Ball State,11,57
+2000,64,Maryland,3,74,Iona,14,59
+2000,64,Auburn,7,72,Creighton,10,69
+2000,64,Iowa State,2,88,Central Connecticut St,15,78
+2000,32,Michigan State,1,73,Utah,8,61
+2000,32,Syracuse,4,52,Kentucky,5,50
+2000,32,UCLA,6,105,Maryland,3,70
+2000,32,Iowa State,2,79,Auburn,7,60
+2000,16,Michigan State,1,75,Syracuse,4,58
+2000,16,Iowa State,2,80,UCLA,6,56
+2000,8,Michigan State,1,75,Iowa State,2,64
+2000,64,Arizona,1,71,Jackson St.,16,47
+2000,64,Wisconsin,8,66,Fresno St.,9,56
+2000,64,Texas,5,77,Indiana St.,12,61
+2000,64,LSU,4,64,Southeast Missouri St.,13,61
+2000,64,Purdue,6,62,Dayton,11,61
+2000,64,Oklahoma,3,74,Winthrop,14,50
+2000,64,Gonzaga,10,77,Louisville,7,66
+2000,64,St John's,2,61,Northern Arizona,15,56
+2000,32,Wisconsin,8,66,Arizona,1,59
+2000,32,LSU,4,72,Texas,5,67
+2000,32,Purdue,6,66,Oklahoma,3,62
+2000,32,Gonzaga,10,82,St John's,2,76
+2000,16,Wisconsin,8,61,LSU,4,48
+2000,16,Purdue,6,75,Gonzaga,10,66
+2000,8,Wisconsin,8,64,Purdue,6,60
+2000,4,Florida,5,71,North Carolina,8,59
+2000,4,Michigan State,1,53,Wisconsin,8,41
+2000,2,Michigan State,1,89,Florida,5,76

@@ -1,0 +1,64 @@
+year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team_name,losing_team_seed,losing_team_score
+1997,64,North Carolina,1,82,Fairfield,16,74
+1997,64,Colorado,9,80,Indiana,8,62
+1997,64,California,5,55,Princeton,12,52
+1997,64,Villanova,4,101,Long Island,13,91
+1997,64,Louisville,6,65,Massachusetts,11,57
+1997,64,New Mexico,3,59,Old Dominion,14,55
+1997,64,Texas,10,71,Wisconsin,7,58
+1997,64,Coppin State,15,78,South Carolina,2,65
+1997,32,North Carolina,1,73,Colorado,9,56
+1997,32,California,5,75,Villanova,4,68
+1997,32,Louisville,6,64,New Mexico,3,63
+1997,32,Texas,10,82,Coppin State,15,81
+1997,16,North Carolina,1,63,California,5,57
+1997,16,Louisville,6,78,Texas,10,63
+1997,8,North Carolina,1,97,Louisville,6,74
+1997,64,Kansas,1,78,Jackson State,16,64
+1997,64,Purdue,8,83,Rhode Island,9,76
+1997,64,College of Charleston,12,75,Maryland,5,66
+1997,64,Arizona,4,65,South Alabama,13,57
+1997,64,Illinois,6,90,USC,11,77
+1997,64,Chattanooga,14,73,Georgia,3,70
+1997,64,Providence,10,81,Marquette,7,59
+1997,64,Duke,2,71,Murray State,15,68
+1997,32,Kansas,1,75,Purdue,8,61
+1997,32,Arizona,4,73,College of Charleston,12,69
+1997,32,Chattanooga,14,75,Illinois,6,63
+1997,32,Providence,10,98,Duke,2,87
+1997,16,Arizona,4,85,Kansas,1,82
+1997,16,Providence,10,71,Chattanooga,14,65
+1997,8,Arizona,4,96,Providence,10,92
+1997,64,,1,78,Southwest Texas State,16,46
+1997,64,Temple,9,62,Ole Miss,8,40
+1997,64,Tulsa,5,81,Boston University,12,52
+1997,64,Clemson,4,68,Miami (OH),13,56
+1997,64,Iowa State,6,69,Illinois State,11,57
+1997,64,Cincinnati,3,86,Butler,14,69
+1997,64,Xavier,7,80,Vanderbilt,10,68
+1997,64,UCLA,2,109,Charleston Southern,15,75
+1997,32,,1,76,Temple,9,57
+1997,32,Clemson,4,65,Tulsa,5,59
+1997,32,Iowa State,6,67,Cincinnati,3,66
+1997,32,UCLA,2,96,Xavier,7,83
+1997,16,,1,90,Clemson,4,84
+1997,16,UCLA,2,74,Iowa State,6,73
+1997,8,,1,80,UCLA,2,72
+1997,64,Kentucky,1,92,Montana,16,54
+1997,64,Iowa,8,73,Virginia,9,60
+1997,64,Boston College,5,73,Valparaiso,12,66
+1997,64,Saint Joseph's,4,75,Pacific,13,65
+1997,64,Stanford,6,80,Oklahoma,11,67
+1997,64,Wake Forest,3,68,Saint Mary's,14,46
+1997,64,Charlotte,7,79,Georgetown,10,67
+1997,64,Utah,2,75,Navy,15,61
+1997,32,Kentucky,1,75,Iowa,8,69
+1997,32,Saint Joseph's,4,81,Boston College,5,77
+1997,32,Stanford,6,72,Wake Forest,3,66
+1997,32,Utah,2,77,Charlotte,7,58
+1997,16,Kentucky,1,83,Saint Joseph's,4,68
+1997,16,Utah,2,82,Stanford,6,77
+1997,8,Kentucky,1,72,Utah,2,59
+1997,4,Arizona,4,66,North Carolina,1,58
+1997,4,Kentucky,1,78,,1,69
+1997,2,Arizona,4,84,Kentucky,1,79

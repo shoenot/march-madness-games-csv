@@ -1,0 +1,64 @@
+year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team_name,losing_team_seed,losing_team_score
+1992,64,Duke,1,82,Campbell,16,56
+1992,64,Iowa,9,98,Texas,8,92
+1992,64,Missouri,5,89,West Virginia,12,78
+1992,64,Seton Hall,4,78,La Salle,13,76
+1992,64,Syracuse,6,51,Princeton,11,43
+1992,64,Massachusetts,3,85,Fordham,14,58
+1992,64,Iowa State,10,76,Charlotte,7,74
+1992,64,Kentucky,2,88,Old Dominion,15,69
+1992,32,Duke,1,75,Iowa,9,62
+1992,32,Seton Hall,4,88,Missouri,5,71
+1992,32,Massachusetts,3,77,Syracuse,6,71
+1992,32,Kentucky,2,106,Iowa State,10,98
+1992,16,Duke,1,81,Seton Hall,4,68
+1992,16,Kentucky,2,87,Massachusetts,3,77
+1992,8,Duke,1,104,Kentucky,2,103
+1992,64,UCLA,1,73,Robert Morris,16,53
+1992,64,Louisville,8,81,Wake Forest,9,58
+1992,64,,12,81,DePaul,5,73
+1992,64,Southwest Louisiana,13,87,Oklahoma,4,83
+1992,64,Georgetown,6,75,South Florida,11,60
+1992,64,Florida State,3,78,Montana,14,68
+1992,64,LSU,7,94,BYU,10,83
+1992,64,Indiana,2,94,Eastern Illinois,15,55
+1992,32,UCLA,1,85,Louisville,8,69
+1992,32,,12,81,Southwest Louisiana,13,73
+1992,32,Florida State,3,78,Georgetown,6,68
+1992,32,Indiana,2,89,LSU,7,79
+1992,16,UCLA,1,85,,12,78
+1992,16,Indiana,2,85,Florida State,3,74
+1992,8,Indiana,2,106,UCLA,1,79
+1992,64,Ohio State,1,83,Mississippi Valley State,16,56
+1992,64,Connecticut,9,86,Nebraska,8,65
+1992,64,Alabama,5,80,Stanford,12,75
+1992,64,North Carolina,4,68,Miami (OH),13,63
+1992,64,Michigan,6,73,Temple,11,66
+1992,64,East Tennessee State,14,87,Arizona,3,80
+1992,64,Tulane,10,61,St. John's,7,57
+1992,64,Oklahoma State,2,100,Georgia Southern,15,73
+1992,32,Ohio State,1,78,Connecticut,9,55
+1992,32,North Carolina,4,64,Alabama,5,55
+1992,32,Michigan,6,102,East Tennessee State,14,90
+1992,32,Oklahoma State,2,87,Tulane,10,71
+1992,16,Ohio State,1,80,North Carolina,4,73
+1992,16,Michigan,6,75,Oklahoma State,2,72
+1992,8,Michigan ,6,75,Ohio State,1,71
+1992,64,Kansas,1,100,Howard,16,67
+1992,64,UTEP,9,55,Evansville,8,50
+1992,64,Michigan State,5,61,Southwest Missouri State,12,54
+1992,64,Cincinnati,4,85,Delaware,13,47
+1992,64,Memphis State,6,80,Pepperdine,11,70
+1992,64,Arkansas,3,80,Murray State,14,69
+1992,64,Georgia Tech,7,65,Houston,10,60
+1992,64,USC,2,84,Northeast Louisiana,15,54
+1992,32,UTEP,9,66,Kansas,1,60
+1992,32,Cincinnati,4,77,Michigan State,5,65
+1992,32,Memphis State,6,82,Arkansas,3,80
+1992,32,Georgia Tech,7,79,USC,2,78
+1992,16,Cincinnati,4,69,UTEP,9,67
+1992,16,Memphis State,6,83,Georgia Tech,7,79
+1992,8,Cincinnati,4,88,Memphis State,6,57
+1992,4,Duke,1,81,Indiana,2,78
+1992,4,,6,76,Cincinnati,4,72
+1992,2,Duke,1,71,,6,51
