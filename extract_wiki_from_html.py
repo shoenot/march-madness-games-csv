@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""Extract wikisource from an "Edit" page."""
-
-import sys
-
 # Fix BS4 issue with Python 3.10+
 import collections
 collections.Callable = collections.abc.Callable

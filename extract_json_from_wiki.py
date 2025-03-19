@@ -1,16 +1,6 @@
-#!/usr/bin/env python3
-"""Convert .wiki files to .json files.
-
-Usage:
-
-    ./extract_bracket.py pages/*.wiki
-"""
-
 from collections import defaultdict
 import json
 import re
-import os
-import pathlib
 
 import mwparserfromhell
 
