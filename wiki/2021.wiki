@@ -974,11 +974,10 @@ The [[First Four]] games involved eight teams: the four overall lowest-ranked te
 
 | RD1-seed13=7
 | RD1-team13='''[[2020–21 Oregon Ducks men's basketball team|Oregon]]'''
-| RD1-score13='''0'''
+| RD1-score13='''1'''
 | RD1-seed14=10
 | RD1-team14=[[2020–21 VCU Rams men's basketball team|VCU]]{{efn-ua|name=VCU|Game declared no contest due to COVID-19 protocols with VCU. Oregon advances in the tournament.<ref>{{cite news|author=NCAA staff|title=VCU-Oregon game ruled a no-contest due to COVID-19 protocols|url=https://www.ncaa.com/news/basketball-men/article/2021-03-20/vcu-oregon-game-ruled-no-contest-due-covid-19-protocols|website=NCAA.com|date=March 20, 2021|access-date=March 24, 2021|language=en-US}}</ref>}}
-| RD1-score14=0
-
+| RD1-score14='''0'''
 | RD1-seed15=2
 | RD1-team15='''[[2020–21 Iowa Hawkeyes men's basketball team|Iowa]]'''
 | RD1-score15='''86'''

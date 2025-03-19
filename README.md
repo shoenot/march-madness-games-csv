@@ -14,4 +14,4 @@ python generate_data.py
 This will automatically populate the data folders with new years. 
 
 ### Quirks
-- 2021 had a singular game that was abandoned due to Covid-19 protocol. Instead of trying to code in an exception for this, I just manually edited the scores to 0 for that one game year's html file, before running generate_data.py.
+- 2021 had a singular game that was abandoned due to Covid-19 protocol (Oregon vs VCU). The script automatically edits the HTML to give Oregon a score of 1 and VCU a score of 0.  
